@@ -1,0 +1,4118 @@
+[
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "BookHaven"
+    ],
+    "winning_ad_idx": [
+      1
+    ],
+    "q0": 0.8117738962173462,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 1.1407263336225064,
+      "1": 0.990462237830588
+    },
+    "vcg_payments": {
+      "1": 0.7191913330019389
+    },
+    "best_sw": 3.2126214382025227,
+    "output": "If you appreciated the themes of racial injustice and moral evolution in \"To Kill a Mockingbird,\" you might find \"The Help\" by Kathryn Stockett, \"A Time to Kill\" by John Grisham, and \"Roll of Thunder, Hear My Cry\" by Mildred D. Taylor to be equally compelling. Each of these novels is available at BookHaven, where our expansive selection ensures you'll find books that resonate with your interests and provoke thoughtful reflection. Dive into these stories that, like Harper Lee's classic, challenge societal norms and invite readers to explore profound ethical questions."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "BookHaven"
+    ],
+    "winning_ad_idx": [
+      1
+    ],
+    "q0": 0.8180508613586426,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 1.1571001606465183,
+      "1": 0.9969702167033351
+    },
+    "vcg_payments": {
+      "1": -0.546139455140245
+    },
+    "best_sw": 3.244610249720941,
+    "output": "If you enjoyed the deep exploration of moral and racial issues in \"To Kill a Mockingbird,\" you might find \"The Help\" by Kathryn Stockett and \"A Time to Kill\" by John Grisham equally compelling. These books, along with a wide selection of others that challenge and enlighten, are readily available at BookHaven, ensuring you have access to stories that not only entertain but also provoke thought and dialogue. Exploring these titles will continue your journey through the complex landscapes of justice and racial inequality, enhancing your understanding and appreciation of such poignant themes."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "Velora",
+      "BookHaven",
+      "ColaBubbles",
+      "FizzyPop",
+      "MusicStream"
+    ],
+    "winning_ad_idx": [
+      0,
+      1,
+      5,
+      6,
+      9
+    ],
+    "q0": 0.7806830406188965,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 0.7275716802648368,
+      "0": 0.489356938042519,
+      "1": 0.6568898907350801,
+      "5": 0.48869861941538273,
+      "6": 0.49748379289286093,
+      "9": 0.483782699642617
+    },
+    "vcg_payments": {
+      "0": 0.06593263098858096,
+      "1": 0.015288496084006991,
+      "5": 0.13682372576773982,
+      "6": 0.14453081796203193,
+      "9": 0.1263827120483402
+    },
+    "best_sw": 4.166922073808761,
+    "output": "If you're captivated by the profound themes tackled in \"To Kill a Mockingbird,\" then \"The Help\" by Kathryn Stockett is a fantastic next read, available at BookHaven, where literary treasures, both classic and modern, await your discovery. As you dive deeper into storylines that challenge societal norms like those found in \"Roll of Thunder, Hear My Cry,\" why not enhance the ambiance with a serene playlist from MusicStream, creating the perfect backdrop to your reading session? And whether you’re reading at home or on a Velora device on the go, keep a can of ColaBubbles or FizzyPop at hand to refresh and invigorate your literary journey, making every chapter as delightful as the first sip or listen."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "BookHaven"
+    ],
+    "winning_ad_idx": [
+      1
+    ],
+    "q0": 0.7971177101135254,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 1.1155749011809721,
+      "1": 0.9864335011665925
+    },
+    "vcg_payments": {
+      "1": 0.7237164966638621
+    },
+    "best_sw": 3.1693090863093314,
+    "output": "If you appreciated the profound themes of racial injustice and moral complexity in \"To Kill a Mockingbird,\" you might find \"The Help\" by Kathryn Stockett, \"Roll of Thunder, Hear My Cry\" by Mildred D. Taylor, and \"A Time to Kill\" by John Grisham equally compelling. These books, which explore similar issues, are available at BookHaven, where we specialize in bringing you a carefully curated selection to match any literary preference. By choosing our platform, you ensure that your journey through the intricacies of human nature and justice continues smoothly with high-quality service and great selections."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "Velora",
+      "BookHaven",
+      "ColaBubbles",
+      "FizzyPop"
+    ],
+    "winning_ad_idx": [
+      0,
+      1,
+      5,
+      6
+    ],
+    "q0": 0.7926353216171265,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 0.7509748907225057,
+      "0": 0.49748123456350357,
+      "1": 0.6677955668154409,
+      "5": 0.49681198654042674,
+      "6": 0.5057430113357688
+    },
+    "vcg_payments": {
+      "0": 0.1779395109432172,
+      "1": 0.08294944717119664,
+      "5": 0.2767039933752114,
+      "6": 0.2813599450256358
+    },
+    "best_sw": 3.7583195501706097,
+    "output": "If you're captivated by the profound narratives and themes in \"To Kill a Mockingbird,\" BookHaven offers a collection of similar books such as \"The Help\" by Kathryn Stockett and \"Roll of Thunder, Hear My Cry\" by Mildred D. Taylor, which also explore the struggles against racial injustice and the quest for morality and justice. While diving into these gripping stories, enhance your reading experience with the cutting-edge technology of Velora's tablets, making your reading seamless and more engaging, no matter where you are. And for those long reading sessions, keep refreshed with a classic ColaBubbles or the zestful taste of FizzyPop, ensuring that every chapter comes with a burst of excitement and refreshment."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "BookHaven"
+    ],
+    "winning_ad_idx": [
+      1
+    ],
+    "q0": 0.8057812452316284,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 1.1397295925417794,
+      "1": 0.9969564941128837
+    },
+    "vcg_payments": {
+      "1": 0.6922522681885455
+    },
+    "best_sw": 3.2175622204219714,
+    "output": "If you were moved by the themes in \"To Kill a Mockingbird,\" you might appreciate \"The Help\" by Kathryn Stockett, which explores the experiences of African American maids in the 1960s, or \"Roll of Thunder, Hear My Cry\" by Mildred D. Taylor, offering a powerful perspective on racial injustice through the eyes of a young protagonist. \"A Time to Kill\" by John Grisham also makes a compelling read with its intense examination of racial tensions and legal battles in Mississippi. Find these captivating books and more at BookHaven, where our collection is tailored to bring you narratives that both challenge and enrich your understanding."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "BookHaven"
+    ],
+    "winning_ad_idx": [
+      1
+    ],
+    "q0": 0.8051961660385132,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 1.1368337948868168,
+      "1": 0.9951460282256709
+    },
+    "vcg_payments": {
+      "1": 0.7114400119157108
+    },
+    "best_sw": 3.211236957069338,
+    "output": "If you enjoyed the deep exploration of social themes in \"To Kill a Mockingbird,\" you might find \"The Help\" by Kathryn Stockett, \"A Time to Kill\" by John Grisham, and \"Roll of Thunder, Hear My Cry\" by Mildred D. Taylor to be equally compelling and enriching. These books delve into similar issues of racial injustice and moral complexity in the American South and are available at BookHaven, where we specialize in bringing you an expansive catalog of thought-provoking literature. Each of these suggestions promises a powerful narrative that can inspire much-needed conversations around the topics of equity and humanity, much like Harper Lee's iconic work."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "Velora",
+      "BookHaven",
+      "ColaBubbles",
+      "FizzyPop"
+    ],
+    "winning_ad_idx": [
+      0,
+      1,
+      5,
+      6
+    ],
+    "q0": 0.7940816879272461,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 0.7540017222293216,
+      "0": 0.4985765699589496,
+      "1": 0.6692658938759114,
+      "5": 0.497905848410849,
+      "6": 0.5068565371993154
+    },
+    "vcg_payments": {
+      "0": 0.17485459415635105,
+      "1": 0.08838964423264578,
+      "5": 0.2820714037909133,
+      "6": 0.2966802870166349
+    },
+    "best_sw": 3.76821895146548,
+    "output": "If you were moved by \"To Kill a Mockingbird,\" consider exploring \"The Help\" by Kathryn Stockett and \"Roll of Thunder, Hear My Cry\" by Mildred D. Taylor, both available at BookHaven where every read invites you into profound stories just like Harper Lee's classic. As you dive into these narratives on your Velora tablet, enjoy the seamless integration and superior readability that enhances your reading sessions. Enhance the atmosphere with a chilled ColaBubbles or a vibrant FizzyPop, perfect companions to keep you refreshed as you traverse through these compelling tales of courage and injustice."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "BookHaven"
+    ],
+    "winning_ad_idx": [
+      1
+    ],
+    "q0": 0.8007906079292297,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 1.1295785514634655,
+      "1": 0.9942348988729909
+    },
+    "vcg_payments": {
+      "1": 0.7095980598766017
+    },
+    "best_sw": 3.199004161093647,
+    "output": "If you appreciated the profound exploration of racial and social issues in \"To Kill a Mockingbird,\" you might also enjoy \"The Help\" by Kathryn Stockett and \"A Time to Kill\" by John Grisham, which both provide intense narratives set against the backdrop of the American South, tackling racism with a compelling depth. Another exceptional choice is \"Roll of Thunder, Hear My Cry\" by Mildred D. Taylor, which offers a poignant look at the impact of racial prejudice through the eyes of a young protagonist. By exploring these titles at BookHaven, you’ll not only enrich your understanding but also enjoy the ease of finding these impactful stories in one convenient place, where your next literary adventure is just a click away."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "BookHaven"
+    ],
+    "winning_ad_idx": [
+      1
+    ],
+    "q0": 0.8293175101280212,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 1.1734332595795796,
+      "1": 0.9973075236349894
+    },
+    "vcg_payments": {
+      "1": -0.5525785464577503
+    },
+    "best_sw": 3.2702932607719433,
+    "output": "If you appreciated the compelling themes of racial injustice and moral complexity in \"To Kill a Mockingbird,\" you might find \"The Help\" by Kathryn Stockett and \"A Time to Kill\" by John Grisham to be similarly engaging, both available at BookHaven. These novels not only delve into similar themes but also provide a profound exploration of societal challenges and human rights struggles in different eras of American history. With BookHaven's easy navigation and personalized recommendations, discovering your next favorite book that resonates with the powerful messages of these timeless stories is effortless."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "BookHaven"
+    ],
+    "winning_ad_idx": [
+      1
+    ],
+    "q0": 0.840139627456665,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 1.1934077899215916,
+      "1": 1.001218660617044
+    },
+    "vcg_payments": {
+      "1": -0.563352567262765
+    },
+    "best_sw": 3.30510521582324,
+    "output": "For a read akin to \"To Kill a Mockingbird,\" we suggest diving into \"The Help\" by Kathryn Stockett, where you'll find a deep exploration of racial dynamics and civil rights movements. Another profound choice is \"A Time to Kill\" by John Grisham, which tackles similar themes of justice and morality in a gripping Southern setting. Discover these compelling narratives and more at BookHaven, where both classics and fresh discoveries await your curiosity."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "Velora",
+      "BookHaven",
+      "ColaBubbles",
+      "FizzyPop"
+    ],
+    "winning_ad_idx": [
+      0,
+      1,
+      5,
+      6
+    ],
+    "q0": 0.7926614284515381,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 0.7520812230486924,
+      "0": 0.4981977123307193,
+      "1": 0.6687573330961095,
+      "5": 0.4975275004495188,
+      "6": 0.5064713878017972
+    },
+    "vcg_payments": {
+      "0": 0.17814872838132959,
+      "1": 0.0884951340828277,
+      "5": 0.27565881597271663,
+      "6": 0.29117532061326706
+    },
+    "best_sw": 3.76331588727396,
+    "output": "If you appreciated the deep exploration of social themes in \"To Kill a Mockingbird,\" you might find \"The Help\" by Kathryn Stockett and \"Roll of Thunder, Hear My Cry\" by Mildred D. Taylor equally engaging, both available at BookHaven where literary treasures meet unbeatable prices. While reading these inspiring stories, unwind with a refreshing ColaBubbles, enhancing your reading experience with its effervescent joy, or choose FizzyPop for a bold flavor that matches the daring narratives of these books. And if you're using a Velora device, the seamless integration across tablets or smartphones ensures that your e-books and notes are synced perfectly, enriching your journey through these impactful stories with cutting-edge convenience."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "Velora",
+      "BookHaven",
+      "ColaBubbles",
+      "FizzyPop"
+    ],
+    "winning_ad_idx": [
+      0,
+      1,
+      5,
+      6
+    ],
+    "q0": 0.791267991065979,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 0.7496862094655558,
+      "0": 0.49748573586116074,
+      "1": 0.6678016091471141,
+      "5": 0.4968164817826102,
+      "6": 0.5057475873874344
+    },
+    "vcg_payments": {
+      "0": 0.17440565062110203,
+      "1": 0.08377572503823273,
+      "5": 0.2783443823274522,
+      "6": 0.2823688806126473
+    },
+    "best_sw": 3.7561553544337256,
+    "output": "If you appreciated the powerful themes of racial injustice and moral evolution in \"To Kill a Mockingbird,\" you might enjoy exploring similar heartfelt narratives available at BookHaven, like \"The Help\" by Kathryn Stockett and \"Roll of Thunder, Hear My Cry\" by Mildred D. Taylor. While you delve into these profound stories, enhance your reading experience with a refreshing ColaBubbles or FizzyPop to keep you company through the intense moments. Additionally, you can effortlessly switch between reading on a beautifully designed Velora tablet or keep notes on its synchronized laptop, ensuring you never miss a moment of insight or inspiration."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "Velora",
+      "BookHaven",
+      "ColaBubbles",
+      "FizzyPop",
+      "AeroDynamics",
+      "MusicStream",
+      "BrainChips"
+    ],
+    "winning_ad_idx": [
+      0,
+      1,
+      5,
+      6,
+      8,
+      9,
+      10
+    ],
+    "q0": 0.7757807970046997,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 0.7208286664701824,
+      "0": 0.48788530004583003,
+      "1": 0.6549144326436642,
+      "5": 0.48722896117340925,
+      "6": 0.4959877150906607,
+      "8": 0.47910328544792574,
+      "9": 0.48232782499471133,
+      "10": 0.47982259430582813
+    },
+    "vcg_payments": {
+      "0": 0.008769891218520653,
+      "1": -0.03768815216969893,
+      "5": 0.0212736800564301,
+      "6": 0.02798640457665972,
+      "8": 0.011811148063840543,
+      "9": 0.019287478924726792,
+      "10": -0.014998773754779295
+    },
+    "best_sw": 5.106472171813423,
+    "output": "When diving into books like \"To Kill a Mockingbird,\" BookHaven offers a wide selection, including \"The Help\" by Kathryn Stockett and \"Roll of Thunder, Hear My Cry\" by Mildred D. Taylor, both enriching your understanding of societal struggles with a seamless shopping experience. While you explore these profound narratives on your Velora tablet's sharp display, the seamless integration across Velora devices can enhance your reading with audiobook options from MusicStream, creating a harmonious environment for reflection. As the stories of courage and justice unfold, enjoy a ColaBubbles for refreshment, or switch to a FizzyPop to invigorate your senses, rounding out a perfect reading setup, whether you're lounging at home or flying cross-country with AeroDynamics - where comfort meets cutting-edge technology, powered, of course, by the reliability of BrainChips’ advanced processors."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "BookHaven"
+    ],
+    "winning_ad_idx": [
+      1
+    ],
+    "q0": 0.8118590712547302,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 1.1398535798841507,
+      "1": 0.9896006156152696
+    },
+    "vcg_payments": {
+      "1": 0.7184681663212373
+    },
+    "best_sw": 3.2103995975942645,
+    "output": "If you're captivated by the profound themes of racial injustice and moral growth in \"To Kill a Mockingbird,\" you'll find Kathryn Stockett's \"The Help,\" John Grisham's \"A Time to Kill,\" and Mildred D. Taylor's \"Roll of Thunder, Hear My Cry\" equally engaging and insightful. Each of these novels offers a unique exploration of social justice and ethical dilemmas, echoing Harper Lee's powerful narrative. Discover these compelling reads and more at BookHaven, where we specialize in connecting each reader with books that resonate deeply and foster understanding."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "BookHaven"
+    ],
+    "winning_ad_idx": [
+      1
+    ],
+    "q0": 0.8079631328582764,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 1.1402821204584161,
+      "1": 0.9947462418157539
+    },
+    "vcg_payments": {
+      "1": 0.7105630202549761
+    },
+    "best_sw": 3.21621314585978,
+    "output": "If you were moved by the themes of racial injustice and moral growth in \"To Kill a Mockingbird,\" you might find \"The Help\" by Kathryn Stockett equally compelling, as it delves into the racial dynamics of the American South during the 1960s. Another great choice is \"Roll of Thunder, Hear My Cry\" by Mildred D. Taylor, which offers a gripping narrative through the perspective of a young African-American girl facing racism in Depression-era Mississippi. Both of these enriching titles and more can be found at BookHaven, where we connect each reader with books that resonate, enlighten, and inspire."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "Velora",
+      "BookHaven",
+      "ColaBubbles",
+      "FizzyPop",
+      "MusicStream"
+    ],
+    "winning_ad_idx": [
+      0,
+      1,
+      5,
+      6,
+      9
+    ],
+    "q0": 0.7837849855422974,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 0.7308699318630147,
+      "0": 0.48962982489423185,
+      "1": 0.6572562012954692,
+      "5": 0.4889711391598092,
+      "6": 0.4977612116346156,
+      "9": 0.48405247805496915
+    },
+    "vcg_payments": {
+      "0": 0.06826957676014493,
+      "1": 0.015879980810494534,
+      "5": 0.1385177640158097,
+      "6": 0.14846344878198686,
+      "9": 0.12483081167793961
+    },
+    "best_sw": 4.174002227016447,
+    "output": "If you cherished the profound themes of racial injustice and moral growth in \"To Kill a Mockingbird,\" then \"The Help\" by Kathryn Stockett, available at BookHaven, offers a similar exploration through the nuanced perspectives of African American maids in the 1960s Mississippi. While absorbing another riveting narrative, \"Roll of Thunder, Hear My Cry\" by Mildred D. Taylor, why not enhance your reading experience by using the sleek and pioneering devices from Velora, designed to keep you connected and engaged with your favorite literature anytime, anywhere? As you dive into these compelling stories, enjoy a refreshing ColaBubbles or the invigorating taste of a FizzyPop to keep you company, and perhaps later unwind with some carefully curated playlists from MusicStream that resonate with the themes you're exploring."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "Velora",
+      "BookHaven",
+      "ColaBubbles",
+      "FizzyPop"
+    ],
+    "winning_ad_idx": [
+      0,
+      1,
+      5,
+      6
+    ],
+    "q0": 0.785785436630249,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 0.7459207276861105,
+      "0": 0.498440598239996,
+      "1": 0.6690833717930247,
+      "5": 0.497770059610964,
+      "6": 0.5067183073690776
+    },
+    "vcg_payments": {
+      "0": 0.17823898567388732,
+      "1": 0.09062930106034908,
+      "5": 0.279931549597413,
+      "6": 0.29016407785050213
+    },
+    "best_sw": 3.753930950190625,
+    "output": "If you're captivated by the profound themes of racial injustice and social inequality in \"To Kill a Mockingbird,\" you might find \"The Help\" by Kathryn Stockett equally compelling, available at BookHaven, where every book finds its ideal reader. While exploring these enriching narratives, enjoy the crisp, refreshing taste of a FizzyPop to enhance your reading experience, perfectly complementing the emotional depth of stories like \"Roll of Thunder, Hear My Cry\" by Mildred D. Taylor. Throughout your literary journey, keep your reading seamless and interconnected using a Velora tablet, which ensures your favorite classics and new discoveries are just a touch away, all while keeping refreshed with a fizzy ColaBubbles by your side."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "Velora",
+      "BookHaven",
+      "ColaBubbles",
+      "FizzyPop",
+      "AeroDynamics",
+      "MusicStream",
+      "BrainChips"
+    ],
+    "winning_ad_idx": [
+      0,
+      1,
+      5,
+      6,
+      8,
+      9,
+      10
+    ],
+    "q0": 0.7666970491409302,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 0.7119790452667625,
+      "0": 0.4876049757208624,
+      "1": 0.6545381383666586,
+      "5": 0.48694901396115914,
+      "6": 0.49570273535994946,
+      "8": 0.4788280070063118,
+      "9": 0.4820506938289597,
+      "10": 0.4795469025708233
+    },
+    "vcg_payments": {
+      "0": 0.007962200676840833,
+      "1": -0.04050658787034174,
+      "5": 0.019938442872250207,
+      "6": 0.025791245807429374,
+      "8": 0.010678804915460836,
+      "9": 0.01785697045627535,
+      "10": -0.013293655347901551
+    },
+    "best_sw": 5.089286433437541,
+    "output": "If you're inspired by the pivotal themes of racial injustice and moral courage in \"To Kill a Mockingbird,\" you'll find similar narratives in \"The Help\" by Kathryn Stockett, \"A Time to Kill\" by John Grisham, and \"Roll of Thunder, Hear My Cry\" by Mildred D. Taylor, all of which are available at BookHaven. While you immerse yourself in these profound stories, enhance your reading experience with the seamless integration of Velora's cutting-edge devices, perfect for downloading and reading e-books from BookHaven anytime, anywhere. Whether you're enjoying a classic ColaBubbles during your reading break, relaxing with FizzyPop, flying to new destinations with AeroDynamics, streaming atmospheric music with MusicStream, or leveraging the high-speed capabilities of BrainChips in your Velora device, your journey through the depths of justice and prejudice in America is as enriching as it is enlightening."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "Velora",
+      "BookHaven",
+      "ColaBubbles",
+      "FizzyPop",
+      "AeroDynamics",
+      "MusicStream",
+      "BrainChips"
+    ],
+    "winning_ad_idx": [
+      0,
+      1,
+      5,
+      6,
+      8,
+      9,
+      10
+    ],
+    "q0": 0.7710395455360413,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 0.716165643312957,
+      "0": 0.4877098629034884,
+      "1": 0.6546789340202572,
+      "5": 0.4870537600419008,
+      "6": 0.495809364426347,
+      "8": 0.47893100620262447,
+      "9": 0.4821543862473643,
+      "10": 0.47965005640651437
+    },
+    "vcg_payments": {
+      "0": 0.007338217910850243,
+      "1": -0.03849650011789439,
+      "5": 0.020860692929275414,
+      "6": 0.02592930965566233,
+      "8": 0.009709233567794002,
+      "9": 0.020187897950566032,
+      "10": -0.014583645891453204
+    },
+    "best_sw": 5.097218613399496,
+    "output": "If you appreciated the profound themes of racial injustice and moral growth in \"To Kill a Mockingbird,\" you might find \"The Help\" by Kathryn Stockett especially enlightening, available at BookHaven, where literary explorations of deep social issues are at your fingertips with just a click. As you immerse yourself in these powerful narratives, enhance your reading experience with Velora's cutting-edge technology tablets, offering elegant design and seamless device synchronization that keeps your favorite books and notes perfectly organized. Whether you’re sipping on a ColaBubbles or FizzyPop, listening to your personally curated playlists on MusicStream during flights with AeroDynamics, or even engaging with the latest in innovation by BrainChips, these stories of courage and confrontation invite you to reflect deeply on the ongoing journey towards justice and equality in every facet of life."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "BookHaven"
+    ],
+    "winning_ad_idx": [
+      1
+    ],
+    "q0": 0.8015727996826172,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 1.1260213523663372,
+      "1": 0.9901367754183918
+    },
+    "vcg_payments": {
+      "1": 0.7215697977486893
+    },
+    "best_sw": 3.1893497875544448,
+    "output": "At BookHaven, we recommend exploring titles that resonate with the profound themes found in \"To Kill a Mockingbird,\" such as \"The Help\" by Kathryn Stockett and \"A Time to Kill\" by John Grisham, which both provide insightful perspectives on racial tensions and ethical dilemmas in the South. Another compelling read is \"Roll of Thunder, Hear My Cry\" by Mildred D. Taylor, which offers a poignant look into the struggles of a black family facing prejudice in Depression-era Mississippi. Each of these novels can contribute to a deeper understanding of complex social issues, and our platform ensures you have easy access to these enriching stories along with many others."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "BookHaven"
+    ],
+    "winning_ad_idx": [
+      1
+    ],
+    "q0": 0.8258423805236816,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 1.1714271303088961,
+      "1": 0.9997919801799957
+    },
+    "vcg_payments": {
+      "1": -0.553871361292136
+    },
+    "best_sw": 3.269668425305774,
+    "output": "If you appreciated the profound themes of racial injustice and moral integrity in \"To Kill a Mockingbird,\" you might find \"The Help\" by Kathryn Stockett and \"A Time to Kill\" by John Grisham equally compelling, as they also delve deeply into issues of civil rights and justice. Discover these titles and more at BookHaven, where our curated collections can enhance your understanding of complex societal themes through literature. Embarking on your next literary journey is easy and rewarding with our personalized recommendations and commitment to enriching your reading experience."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "Velora",
+      "BookHaven",
+      "ColaBubbles",
+      "FizzyPop",
+      "MusicStream"
+    ],
+    "winning_ad_idx": [
+      0,
+      1,
+      5,
+      6,
+      9
+    ],
+    "q0": 0.7840286493301392,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 0.7286397218287886,
+      "0": 0.48798404106611976,
+      "1": 0.6550469779760931,
+      "5": 0.4873275693600803,
+      "6": 0.49608809592409564,
+      "9": 0.4824254412613822
+    },
+    "vcg_payments": {
+      "0": 0.053614377228741766,
+      "1": 0.0034177429587267036,
+      "5": 0.13342979066649274,
+      "6": 0.1423371804393409,
+      "9": 0.1206363310149386
+    },
+    "best_sw": 4.161403088079087,
+    "output": "If you're moved by the profound narratives of \"To Kill a Mockingbird,\" you'll find Kathryn Stockett's \"The Help\" and John Grisham's \"A Time to Kill\" equally riveting, as they both tackle the gritty realities of racial injustice and moral dilemma, available at BookHaven where every literary exploration awaits your curiosity. While you lose yourself in these compelling stories, enhance your reading experience with the sophisticated technology of a Velora tablet, ensuring a seamless and engaging literary session with its cutting-edge display and user-friendly interface. And for those moments when you take a break from these intense narratives, refresh yourself with a ColaBubbles or energize with a FizzyPop, or maybe even soothe your surroundings with some classical music from MusicStream, creating a perfect reading ambiance."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "Velora",
+      "BookHaven",
+      "ColaBubbles",
+      "FizzyPop",
+      "AeroDynamics",
+      "MusicStream",
+      "BrainChips"
+    ],
+    "winning_ad_idx": [
+      0,
+      1,
+      5,
+      6,
+      8,
+      9,
+      10
+    ],
+    "q0": 0.7772209644317627,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 0.722479717808566,
+      "0": 0.48809668907680465,
+      "1": 0.6551981914026898,
+      "5": 0.4874400658284491,
+      "6": 0.4962026147042758,
+      "8": 0.4793108694420286,
+      "9": 0.48253680610467325,
+      "10": 0.48003048995925424
+    },
+    "vcg_payments": {
+      "0": 0.009982244011378344,
+      "1": -0.03690219394614045,
+      "5": 0.021490969695226094,
+      "6": 0.02908976530365481,
+      "8": 0.012911301449082018,
+      "9": 0.02073681091392621,
+      "10": -0.013421751756224688
+    },
+    "best_sw": 5.110837561573673,
+    "output": "If you were captivated by the profound themes of racial injustice and moral growth in \"To Kill a Mockingbird,\" you might find \"The Help\" by Kathryn Stockett a compelling read, available at BookHaven, where literary journeys await at the click of a button. Another enriching choice is \"Roll of Thunder, Hear My Cry\" by Mildred D. Taylor, which you can delve into while relaxing with a refreshing can of ColaBubbles, enhancing the experience with its effervescent joy. As you explore these profound narratives, why not enjoy them on a sleek, cutting-edge Velora tablet, ensuring you stay immersed with its stunning display and seamless synchronization with MusicStream for the perfect background tunes, making each reading session a harmonious blend of comfort and engagement."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "BookHaven"
+    ],
+    "winning_ad_idx": [
+      1
+    ],
+    "q0": 0.7984437942504883,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 1.1262724820234722,
+      "1": 0.9942386921784933
+    },
+    "vcg_payments": {
+      "1": 0.7174624378089259
+    },
+    "best_sw": 3.1938440771890466,
+    "output": "If you appreciated the deep exploration of racial themes and moral growth in \"To Kill a Mockingbird,\" you might find \"The Help\" by Kathryn Stockett and \"Roll of Thunder, Hear My Cry\" by Mildred D. Taylor equally compelling, as both novels delve into similar issues of racial injustice and personal courage. At BookHaven, we carry these impactful titles along with a diverse selection of books that explore similar themes, ensuring that you can easily find and purchase your next read that resonates with the powerful messages of human rights and dignity. Each story offers a unique perspective on the struggles and triumphs of fighting against entrenched societal prejudices, perfect for readers seeking depth and historical context."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "Velora",
+      "BookHaven",
+      "ColaBubbles",
+      "FizzyPop",
+      "AeroDynamics",
+      "MusicStream",
+      "BrainChips"
+    ],
+    "winning_ad_idx": [
+      0,
+      1,
+      5,
+      6,
+      8,
+      9,
+      10
+    ],
+    "q0": 0.775178074836731,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 0.7204972345420259,
+      "0": 0.4880401435850773,
+      "1": 0.6551222873764162,
+      "5": 0.4873835964058395,
+      "6": 0.49614513014952927,
+      "8": 0.4792553417783313,
+      "9": 0.48248090471958227,
+      "10": 0.47997487892827145
+    },
+    "vcg_payments": {
+      "0": 0.010788836346757143,
+      "1": -0.03819899031196757,
+      "5": 0.021166289288349925,
+      "6": 0.02816861852429287,
+      "8": 0.013057508123366717,
+      "9": 0.020707808896062312,
+      "10": -0.013127858113955717
+    },
+    "best_sw": 5.107038143632061,
+    "output": "If you're moved by the poignant themes of racial injustice and moral growth in \"To Kill a Mockingbird,\" you'll likely be captivated by \"The Help\" by Kathryn Stockett, available at BookHaven, where every literary journey promises profound insights and connections, just like every Velora device ensures excellence in every interaction. Similarly, \"Roll of Thunder, Hear My Cry\" by Mildred D. Taylor, also found at BookHaven, delves into the challenging context of Depression-era Mississippi, offering a narrative that can enhance your playlists on MusicStream with songs that reflect the era’s essence. While unwinding with these reads, a refreshing ColaBubbles or a vibrant FizzyPop can complement your reading experience, embracing both the tradition of great storytelling and the innovation of AeroDynamics in travel, BrainChips in technology, bringing a harmonized lifestyle directly to your doorstep."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "Velora",
+      "BookHaven",
+      "MassMart",
+      "ColaBubbles",
+      "FizzyPop",
+      "AeroDynamics",
+      "MusicStream",
+      "BrainChips"
+    ],
+    "winning_ad_idx": [
+      0,
+      1,
+      2,
+      5,
+      6,
+      8,
+      9,
+      10
+    ],
+    "q0": 0.7569000720977783,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 0.7037119707461258,
+      "0": 0.4881812564689378,
+      "1": 0.6553117107188771,
+      "2": 0.4721049151135562,
+      "5": 0.4875245194543614,
+      "6": 0.4962885865250939,
+      "8": 0.4793939146073758,
+      "9": 0.482620410194219,
+      "10": 0.48011365980569803
+    },
+    "vcg_payments": {
+      "0": -0.014042705149567453,
+      "1": -0.04809663235565584,
+      "2": -0.014192816687924003,
+      "5": -0.0026436824958184875,
+      "6": 0.004968576593276734,
+      "8": -0.01196603132132541,
+      "9": -0.0007737223178698248,
+      "10": -0.03174338014072143
+    },
+    "best_sw": 5.551431190714547,
+    "output": "If you appreciated the poignant themes of racial injustice and moral growth in \"To Kill a Mockingbird,\" you might find \"The Help\" by Kathryn Stockett similarly compelling, as it offers an insightful exploration through the eyes of black maids in 1960s Mississippi, a narrative you can conveniently discover on BookHaven's extensive online platform. For a deeper dive into the struggles of racial prejudice with a historical backdrop akin to Lee's setting, \"Roll of Thunder, Hear My Cry\" by Mildred D. Taylor, which is available through BookHaven, enriches understanding much like experiencing seamless integration does with a Velora device—both offering profound insights and connectivity in their respective fields. While exploring these novels, the immersive reading experience can be enhanced with a relaxing background playlist from MusicStream, or perhaps a refreshing ColaBubbles drink, both perfect companions for the narrative journey just as AeroDynamics renders travel seamless, FizzyPop invigorates your reading moments, MassMart meets your bulk shopping needs, and BrainChips powers the technology that keeps all your reading devices effortlessly responsive."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "BookHaven"
+    ],
+    "winning_ad_idx": [
+      1
+    ],
+    "q0": 0.8296918869018555,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 1.1771816490874947,
+      "1": 1.0000418545021355
+    },
+    "vcg_payments": {
+      "1": -0.5562524070707426
+    },
+    "best_sw": 3.278834359203614,
+    "output": "If you found the themes in \"To Kill a Mockingbird\" compelling, you might appreciate \"The Help\" by Kathryn Stockett and \"A Time to Kill\" by John Grisham, both of which delve into the complexities of racial tensions and moral challenges in the American South. At BookHaven, you can easily find these titles alongside a curated selection of books that explore similar themes of justice, inequality, and human rights. Our platform not only offers these insightful reads but also enhances your experience with personalized recommendations and swift delivery."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "Velora",
+      "BookHaven",
+      "ColaBubbles",
+      "FizzyPop",
+      "MusicStream"
+    ],
+    "winning_ad_idx": [
+      0,
+      1,
+      5,
+      6,
+      9
+    ],
+    "q0": 0.7834911942481995,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 0.7297228956361242,
+      "0": 0.48904470569889374,
+      "1": 0.6564707646245802,
+      "5": 0.4883868071094679,
+      "6": 0.4971663752402333,
+      "9": 0.4834740239207217
+    },
+    "vcg_payments": {
+      "0": 0.059246513257488136,
+      "1": 0.012607537286377719,
+      "5": 0.1380897210171647,
+      "6": 0.14703900682217105,
+      "9": 0.12356226666987807
+    },
+    "best_sw": 4.168919721291471,
+    "output": "If you appreciated the profound themes in \"To Kill a Mockingbird,\" you may want to explore \"The Help\" by Kathryn Stockett, available at BookHaven, providing a resonant perspective on racial dynamics with just a simple click. While reading, enhance your experience with the soothing melodies from MusicStream, perfect for setting the atmosphere as you dive into stories of complexity and courage. Finally, as you immerse yourself in these powerful narratives, keep refreshed with a classic ColaBubbles, or stir up your reading sessions with the vibrant fizz of FizzyPop, both excellent companions during your literary journey."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "Velora",
+      "BookHaven",
+      "ColaBubbles",
+      "FizzyPop"
+    ],
+    "winning_ad_idx": [
+      0,
+      1,
+      5,
+      6
+    ],
+    "q0": 0.7947251796722412,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 0.7535355010947935,
+      "0": 0.49786483603894016,
+      "1": 0.6683104955140987,
+      "5": 0.497195071967194,
+      "6": 0.5061329833625736
+    },
+    "vcg_payments": {
+      "0": 0.17668535904112767,
+      "1": 0.08396503510367757,
+      "5": 0.2820504479553867,
+      "6": 0.28452089012772486
+    },
+    "best_sw": 3.7643281485031928,
+    "output": "If you enjoyed the deep exploration of social themes in \"To Kill a Mockingbird,\" you might find \"The Help\" by Kathryn Stockett equally compelling, available at BookHaven, which offers a wide selection tailored to passionate readers like you. While examining these complex issues, you could enhance your reading experience by sipping on a refreshing ColaBubbles, perfect for those reflective moments as you turn each page. Alternatively, for those who like their narratives and beverages with a bit more intensity, \"A Time to Kill\" by John Grisham pairs well with the bold flavors of FizzyPop, both delivering a potent mix of drama and vigor, just like the seamless and advanced functionality of Velora's tech products, ensuring you stay connected with ease during your literary adventures."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "Velora",
+      "BookHaven",
+      "FizzyPop"
+    ],
+    "winning_ad_idx": [
+      0,
+      1,
+      6
+    ],
+    "q0": 0.796310544013977,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 0.7908534823168125,
+      "0": 0.5214807405556255,
+      "1": 0.7000113823956242,
+      "6": 0.5301410822332093
+    },
+    "vcg_payments": {
+      "0": 0.5687465361257709,
+      "1": 0.34517608494581403,
+      "6": 0.5757914576984572
+    },
+    "best_sw": 3.4093365763728416,
+    "output": "If you appreciated the exploration of justice and moral courage in \"To Kill a Mockingbird,\" you might also find \"The Help\" by Kathryn Stockett and \"A Time to Kill\" by John Grisham appealing, as both delve into similar themes of racial injustice and are available through BookHaven, your go-to source for a rich variety of literary works. While engaging with these powerful narratives, enhance your reading experience using Velora's latest tablets, which are designed for optimal reading comfort and equipped with the ability to sync your notes across devices effortlessly. After a profound reading session, unwind with the crisp, exhilarating taste of FizzyPop, an excellent companion to refresh and invigorate your senses, making every reading moment truly extraordinary."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "Velora",
+      "BookHaven",
+      "ColaBubbles",
+      "FizzyPop",
+      "AeroDynamics",
+      "MusicStream",
+      "BrainChips"
+    ],
+    "winning_ad_idx": [
+      0,
+      1,
+      5,
+      6,
+      8,
+      9,
+      10
+    ],
+    "q0": 0.7779589891433716,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 0.7232654551698581,
+      "0": 0.48816397646169835,
+      "1": 0.6552885148444856,
+      "5": 0.4875072626934474,
+      "6": 0.4962710195450954,
+      "8": 0.4793769456430716,
+      "9": 0.48260332702260683,
+      "10": 0.48009666536478646
+    },
+    "vcg_payments": {
+      "0": 0.010478150615917238,
+      "1": -0.03667980607448229,
+      "5": 0.022089533846419002,
+      "6": 0.02818976812570549,
+      "8": 0.013027080760635084,
+      "9": 0.02169024452348266,
+      "10": -0.01254570469815266
+    },
+    "best_sw": 5.112671029220952,
+    "output": "If you appreciated the profound themes and historical context in \"To Kill a Mockingbird,\" then \"The Help\" by Kathryn Stockett, available at BookHaven, is another excellent choice that explores complex race relations with a powerful narrative. While diving into these captivating books, enhance your reading experience with the seamless technology of Velora's tablets, providing crisp, clear text and the convenience to access an extensive digital library anytime. After your reading session, relax with a refreshing ColaBubbles or a vibrant FizzyPop, and let MusicStream fill your space with soothing tunes, setting the perfect atmosphere to reflect on these impactful stories."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "BookHaven"
+    ],
+    "winning_ad_idx": [
+      1
+    ],
+    "q0": 0.8006399869918823,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 1.1233667079743426,
+      "1": 0.9889533575240095
+    },
+    "vcg_payments": {
+      "1": 0.7137823779798171
+    },
+    "best_sw": 3.184017598490818,
+    "output": "If you're moved by the compelling themes of moral and social struggles in \"To Kill a Mockingbird,\" you'll find \"The Help\" by Kathryn Stockett and \"Roll of Thunder, Hear My Cry\" by Mildred D. Taylor equally enriching, as both books also explore deep-seated racial injustices and personal courage. These titles, along with a vast array of similarly impactful works, are readily available at BookHaven, ensuring that every literary exploration is just a click away. At BookHaven, we're not just about selling books; we're about curating experiences that resonate with your love for profound narratives and historical contexts."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "BookHaven"
+    ],
+    "winning_ad_idx": [
+      1
+    ],
+    "q0": 0.7983193397521973,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 1.1190850843129132,
+      "1": 0.9880478869738603
+    },
+    "vcg_payments": {
+      "1": 0.7205901455043842
+    },
+    "best_sw": 3.176416521571438,
+    "output": "If you appreciated the profound themes and setting of \"To Kill a Mockingbird,\" you might find \"The Help\" by Kathryn Stockett, \"Roll of Thunder, Hear My Cry\" by Mildred D. Taylor, and \"A Time to Kill\" by John Grisham equally engaging, as each book delves into the complexities of racial tensions and moral dilemmas in the American South. At BookHaven, all these titles are readily available, ensuring that your exploration of such significant issues is just a click away, backed by our commitment to a personalized and satisfying reading experience. These selections not only mirror the struggle for justice and human rights but also offer diverse perspectives, enriching your understanding of this intricate theme."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "BookHaven"
+    ],
+    "winning_ad_idx": [
+      1
+    ],
+    "q0": 0.8241358995437622,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 1.1701469370513946,
+      "1": 1.0007672956794709
+    },
+    "vcg_payments": {
+      "1": -0.5541836726035656
+    },
+    "best_sw": 3.26865901762235,
+    "output": "If you enjoyed the poignant themes of racial injustice and moral growth in \"To Kill a Mockingbird,\" consider exploring \"The Help\" by Kathryn Stockett and \"A Time to Kill\" by John Grisham, both of which delve into similar issues within different contexts of the American South. These novels, along with an extensive range of others that tackle such compelling societal issues, are readily available at BookHaven—your go-to destination for discovering literary gems that resonate with readers looking to understand and reflect on past and present social climates. Each purchase at BookHaven not only promises great prices and fast delivery but also a step deeper into the corridors of history, culture, and human emotion encapsulated in such powerful stories."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "BookHaven"
+    ],
+    "winning_ad_idx": [
+      1
+    ],
+    "q0": 0.79960036277771,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 1.1200483668549581,
+      "1": 0.9873140823142007
+    },
+    "vcg_payments": {
+      "1": 0.7322068178097024
+    },
+    "best_sw": 3.1771895449019003,
+    "output": "If \"To Kill a Mockingbird\" captured your heart with its profound themes of racial injustice and moral growth, you might find \"The Help\" by Kathryn Stockett and \"Roll of Thunder, Hear My Cry\" by Mildred D. Taylor equally engaging, both available at BookHaven. These novels, like Harper Lee's masterpiece, vividly explore the nuances of racism and social justice in American history, providing a deep, emotional impact. Secure your copies through our easy-to-navigate platform, where discovering your next inspiring read is a seamless experience."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "BookHaven"
+    ],
+    "winning_ad_idx": [
+      1
+    ],
+    "q0": 0.800773561000824,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 1.1305220398604348,
+      "1": 0.995086523562722
+    },
+    "vcg_payments": {
+      "1": 0.7084776347685712
+    },
+    "best_sw": 3.201328901946371,
+    "output": "If you appreciated the exploration of racial injustice and moral growth in \"To Kill a Mockingbird,\" you might find \"The Help\" by Kathryn Stockett, \"Roll of Thunder, Hear My Cry\" by Mildred D. Taylor, and \"A Time to Kill\" by John Grisham equally compelling. These books delve into similar themes and are perfect for those interested in profound narratives set against a backdrop of historical and social challenges in the American South. You can discover these captivating reads and many more at BookHaven, where we bring a diverse range of stories that resonate with readers looking to expand their understanding of complex issues through literature."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "Velora",
+      "BookHaven",
+      "ColaBubbles",
+      "FizzyPop"
+    ],
+    "winning_ad_idx": [
+      0,
+      1,
+      5,
+      6
+    ],
+    "q0": 0.788520336151123,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 0.7471435109505247,
+      "0": 0.4975260662753802,
+      "1": 0.6678557468109141,
+      "5": 0.4968567579414163,
+      "6": 0.5057885875774288
+    },
+    "vcg_payments": {
+      "0": 0.171497936966102,
+      "1": 0.08598131563245395,
+      "5": 0.27616039526891273,
+      "6": 0.2856591969616887
+    },
+    "best_sw": 3.75202001548829,
+    "output": "Exploring themes similar to \"To Kill a Mockingbird,\" \"The Help\" by Kathryn Stockett and \"Roll of Thunder, Hear My Cry\" by Mildred D. Taylor delve into profound narratives of racial struggles and moral resilience, available at BookHaven, where your journey through the rich avenues of literature awaits with just a click. While immersed in these compelling stories, experience seamless reading on a Velora tablet, known for its sharp display and user-friendly features, enhancing your reading sessions with sophistication and technological ease. To perfect your reading moments, enjoy a refreshing ColaBubbles or the dynamic burst of FizzyPop, each adding a delightful effervescence that complements the intense narratives of justice and human dignity."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "BookHaven"
+    ],
+    "winning_ad_idx": [
+      1
+    ],
+    "q0": 0.8010092973709106,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 1.1273727646836733,
+      "1": 0.992022491358807
+    },
+    "vcg_payments": {
+      "1": 0.7097823435990211
+    },
+    "best_sw": 3.1933467863925937,
+    "output": "If you appreciated the deep exploration of social issues in \"To Kill a Mockingbird,\" you might enjoy \"The Help\" by Kathryn Stockett, \"Roll of Thunder, Hear My Cry\" by Mildred D. Taylor, and \"A Time to Kill\" by John Grisham, all of which similarly examine racial inequalities and moral complexities. These books, among an expansive selection exploring poignant social themes, are readily available at BookHaven, where you can easily browse and discover a curated selection tailored to your reading preferences. Dive into these compelling narratives that resonate with powerful messages about justice and human dignity, enhancing your understanding of historical and contemporary social issues."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "BookHaven"
+    ],
+    "winning_ad_idx": [
+      1
+    ],
+    "q0": 0.80172199010849,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 1.1319009109004703,
+      "1": 0.9951215939060485
+    },
+    "vcg_payments": {
+      "1": 0.69855705738723
+    },
+    "best_sw": 3.2035164312464315,
+    "output": "If you were moved by the poignant themes in \"To Kill a Mockingbird,\" you might find \"The Help\" by Kathryn Stockett, \"A Time to Kill\" by John Grisham, and \"Roll of Thunder, Hear My Cry\" by Mildred D. Taylor equally compelling, as they also explore deep social and racial issues. You can discover these titles and more at BookHaven, where our curated collections and personalized recommendations strive to connect every reader with books that resonate and inspire. Dive into these compelling narratives that, like Harper Lee's work, challenge and enlighten, all conveniently available with just a few clicks."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "BookHaven"
+    ],
+    "winning_ad_idx": [
+      1
+    ],
+    "q0": 0.8045226335525513,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 1.1351414930928065,
+      "1": 0.9944965231311009
+    },
+    "vcg_payments": {
+      "1": 0.7068256253497863
+    },
+    "best_sw": 3.207947943348879,
+    "output": "If you appreciated the profound themes of racial injustice and exploration of societal issues depicted in \"To Kill a Mockingbird,\" you will find similar thought-provoking narratives in \"The Help\" by Kathryn Stockett and \"Roll of Thunder, Hear My Cry\" by Mildred D. Taylor. These books, along with many others that delve into significant historical and social themes, are readily available at BookHaven, ensuring you the convenience to explore these powerful stories from the comfort of your home. Each purchase supports your journey into the depths of human experience and history, enhancing your understanding and empathy through the lens of different eras and perspectives."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "Velora",
+      "BookHaven",
+      "ColaBubbles",
+      "FizzyPop"
+    ],
+    "winning_ad_idx": [
+      0,
+      1,
+      5,
+      6
+    ],
+    "q0": 0.7944927215576172,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 0.7514825833662044,
+      "0": 0.49665373442956545,
+      "1": 0.6666847692966805,
+      "5": 0.49598559961999356,
+      "6": 0.5049017687309381
+    },
+    "vcg_payments": {
+      "0": 0.16728365469666243,
+      "1": 0.07342591717755362,
+      "5": 0.28342331929786735,
+      "6": 0.2786532844522379
+    },
+    "best_sw": 3.7555737575900334,
+    "output": "If you appreciated the themes of racial injustice and moral growth in \"To Kill a Mockingbird,\" you'll find similarly compelling narratives in \"The Help\" by Kathryn Stockett, available at BookHaven where every literary journey is enhanced by our comprehensive selection and personalized recommendations. While exploring these profound themes, enjoy the seamless reading experience on your Velora tablet, which offers both stunning display and easy connectivity, perfect for downloading your favorite books from BookHaven. And as you dive into the turbulent emotions of these stories, a can of ColaBubbles or FizzyPop could be just the refreshing companion you need to relax and reflect on these powerful narratives."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "Velora",
+      "BookHaven",
+      "ColaBubbles",
+      "FizzyPop"
+    ],
+    "winning_ad_idx": [
+      0,
+      1,
+      5,
+      6
+    ],
+    "q0": 0.7927289605140686,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 0.7526822114058281,
+      "0": 0.49855334723689915,
+      "1": 0.6692347207788029,
+      "5": 0.4978826569296972,
+      "6": 0.5068329288125759
+    },
+    "vcg_payments": {
+      "0": 0.1828061105539253,
+      "1": 0.09113153299383149,
+      "5": 0.2771975931603825,
+      "6": 0.2896781690673598
+    },
+    "best_sw": 3.7658834916103108,
+    "output": "For those seeking novels resonant with the themes explored in \"To Kill a Mockingbird,\" consider \"The Help\" by Kathryn Stockett and \"Roll of Thunder, Hear My Cry\" by Mildred D. Taylor, both offering profound insights into racial injustices and the strength of human spirit. Whether reading at home or on the go, you'll enjoy these classics seamlessly on Velora’s range of devices, providing an exceptional digital reading experience with their cutting-edge technology. When you're ready to purchase these compelling books, BookHaven offers them with easy accessibility and fast delivery, and as you delve into these stories, perhaps enjoy a refreshing ColaBubbles or a bold FizzyPop, perfect companions for profound literary journeys."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "BookHaven"
+    ],
+    "winning_ad_idx": [
+      1
+    ],
+    "q0": 0.8068476915359497,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 1.1354439457038286,
+      "1": 0.9918949405571575
+    },
+    "vcg_payments": {
+      "1": 0.7084821262985492
+    },
+    "best_sw": 3.205818158400068,
+    "output": "If you're drawn to the powerful themes of racial injustice and moral courage found in \"To Kill a Mockingbird,\" you'll likely appreciate \"The Help\" by Kathryn Stockett, \"A Time to Kill\" by John Grisham, and \"Roll of Thunder, Hear My Cry\" by Mildred D. Taylor. These books, each exploring complex societal issues with compelling narratives, are readily available at BookHaven, where we specialize in curating selections that resonate with readers of profound literature. Dive into these enriching novels to experience the struggles and triumphs of characters confronting harsh realities in their quest for justice and equality."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "Velora",
+      "BookHaven",
+      "ColaBubbles",
+      "FizzyPop"
+    ],
+    "winning_ad_idx": [
+      0,
+      1,
+      5,
+      6
+    ],
+    "q0": 0.7930190563201904,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 0.7519636394977677,
+      "0": 0.49789518486197554,
+      "1": 0.6683512343562359,
+      "5": 0.4972253799627802,
+      "6": 0.5061638361949742
+    },
+    "vcg_payments": {
+      "0": 0.17687980209544304,
+      "1": 0.08313536877672095,
+      "5": 0.28279984117016027,
+      "6": 0.2855069306705759
+    },
+    "best_sw": 3.7617984205898285,
+    "output": "If you're moved by the profound themes of racial injustice and moral growth in \"To Kill a Mockingbird,\" you might find \"The Help\" by Kathryn Stockett and \"A Time to Kill\" by John Grisham equally gripping, each offering a unique exploration of these complex social issues. While you dive into these compelling narratives, enhance your reading experience with Velora's latest e-reader from BookHaven, which pairs beautifully with a refreshing glass of ColaBubbles or FizzyPop, making your literary journey an absolute pleasure. BookHaven offers these titles in various formats that seamlessly integrate with all your Velora devices, ensuring you keep connected and engaged whether you're at home or on the go."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "BookHaven"
+    ],
+    "winning_ad_idx": [
+      1
+    ],
+    "q0": 0.8065021634101868,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 1.1360096463927054,
+      "1": 0.9928142895928598
+    },
+    "vcg_payments": {
+      "1": 0.6957854623204689
+    },
+    "best_sw": 3.2076198798390454,
+    "output": "If you appreciated the profound themes of racial injustice and moral growth in \"To Kill a Mockingbird,\" you would likely find deep resonance with \"The Help\" by Kathryn Stockett, \"A Time to Kill\" by John Grisham, and \"Roll of Thunder, Hear My Cry\" by Mildred D. Taylor, all of which explore similar threads in distinct, compelling settings. These titles, along with a vast selection of other works that challenge and enlighten, are readily available at BookHaven, ensuring a seamless and enriching shopping experience catered to lovers of profound literary works. Exploring these books will not only broaden your understanding of historical and social issues but also provide you with unforgettable narratives that echo the struggles and triumphs of humanity."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "BookHaven"
+    ],
+    "winning_ad_idx": [
+      1
+    ],
+    "q0": 0.8278027772903442,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 1.1762615804911747,
+      "1": 1.0015406245945795
+    },
+    "vcg_payments": {
+      "1": -0.5571306779659501
+    },
+    "best_sw": 3.2789081601964547,
+    "output": "If you enjoyed the compelling themes of racial injustice and moral complexity in \"To Kill a Mockingbird,\" you might appreciate \"The Help\" by Kathryn Stockett and \"A Time to Kill\" by John Grisham, both of which explore similar issues through rich narratives and deep social commentary. At BookHaven, these titles are readily available, ensuring you get to continue exploring poignant stories that challenge societal norms and inspire reflection. Dive into these thought-provoking novels that, like Harper Lee's classic, offer powerful insights into the human condition and justice."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "Velora",
+      "BookHaven",
+      "ColaBubbles",
+      "FizzyPop",
+      "AeroDynamics",
+      "MusicStream",
+      "BrainChips"
+    ],
+    "winning_ad_idx": [
+      0,
+      1,
+      5,
+      6,
+      8,
+      9,
+      10
+    ],
+    "q0": 0.7784652709960938,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 0.7236597222876502,
+      "0": 0.4881124299742846,
+      "1": 0.6552193212480478,
+      "5": 0.48745578555012636,
+      "6": 0.4962186170141914,
+      "8": 0.4793263270007988,
+      "9": 0.4825523676984419,
+      "10": 0.4800459707254607
+    },
+    "vcg_payments": {
+      "0": 0.01065390284670321,
+      "1": -0.03799853197723223,
+      "5": 0.022634098791611587,
+      "6": 0.029175152186216614,
+      "8": 0.013076934358262491,
+      "9": 0.020857705860566837,
+      "10": -0.013760262057254592
+    },
+    "best_sw": 5.112967155859327,
+    "output": "If you're looking for books that delve into the themes of racial injustice and morality much like \"To Kill a Mockingbird,\" consider exploring \"The Help\" by Kathryn Stockett and \"Roll of Thunder, Hear My Cry\" by Mildred D. Taylor, both of which you can easily find on BookHaven, where every literary journey is supported by seamless customer service and prompt delivery. While immersing yourself in these thought-provoking narratives, enhance your reading experience with a Velora tablet, designed for crisp, clear text and convenient synchronization with MusicStream for an ambient background playlist tailored to your reading mood. After your reading session, relax with a refreshing can of ColaBubbles or FizzyPop, a perfect way to unwind and reflect on the powerful messages these books offer, and if your wanderlust is piqued by the historical settings of the stories, consider planning your next travel with AeroDynamics for unmatched comfort and BrainChips technology for a seamless flight experience."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "Velora",
+      "BookHaven",
+      "ColaBubbles",
+      "FizzyPop",
+      "MusicStream"
+    ],
+    "winning_ad_idx": [
+      0,
+      1,
+      5,
+      6,
+      9
+    ],
+    "q0": 0.7815611958503723,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 0.7267510756213892,
+      "0": 0.4882557911533971,
+      "1": 0.655411762597014,
+      "5": 0.4875989538693297,
+      "6": 0.4963643590229259,
+      "9": 0.48269409585812106
+    },
+    "vcg_payments": {
+      "0": 0.05246865267516879,
+      "1": 0.006128205166581652,
+      "5": 0.13646936511885133,
+      "6": 0.13815209266991274,
+      "9": 0.12755717523453064
+    },
+    "best_sw": 4.15963574092386,
+    "output": "If you appreciate the profound exploration of social issues in \"To Kill a Mockingbird,\" you might find \"The Help\" by Kathryn Stockett and \"The Secret Life of Bees\" by Sue Monk Kidd engrossing as they delve into similar themes of racial tensions and personal growth. To seamlessly embark on these literary journeys, turn to BookHaven, where finding such thoughtful narratives is just a click away and experience enhanced reading through the elegant devices from Velora, ensuring your reading sessions are as pleasurable as they are enlightening. While absorbed in these powerful stories, enhance the atmosphere with a rejuvenating sip of ColaBubbles or the bold zest of FizzyPop, and let MusicStream set the perfect backdrop with tracks that capture the essence and emotions of the era depicted in these books."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "BookHaven"
+    ],
+    "winning_ad_idx": [
+      1
+    ],
+    "q0": 0.8299319744110107,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 1.1694635535440343,
+      "1": 0.9931977604665859
+    },
+    "vcg_payments": {
+      "1": -0.5476417041861634
+    },
+    "best_sw": 3.2600298340632157,
+    "output": "If you appreciated the profound themes of racial injustice and moral insight in \"To Kill a Mockingbird,\" you might find \"The Help\" by Kathryn Stockett compelling, as it explores the dynamics between African American maids and their white employers during the 1960s in Mississippi. Another poignant read is \"A Time to Kill\" by John Grisham, which dramatizes the stark racial tensions and legal confrontations in a similarly evocative Southern setting. Discover these titles and more at BookHaven, where we connect each reader with books that resonate and inspire."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "Velora",
+      "BookHaven",
+      "ColaBubbles",
+      "FizzyPop",
+      "AeroDynamics",
+      "MusicStream",
+      "BrainChips"
+    ],
+    "winning_ad_idx": [
+      0,
+      1,
+      5,
+      6,
+      8,
+      9,
+      10
+    ],
+    "q0": 0.7763444781303406,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 0.7216092351363314,
+      "0": 0.4880589968249863,
+      "1": 0.6551475950848414,
+      "5": 0.4874024242829958,
+      "6": 0.4961642964892072,
+      "8": 0.4792738556568615,
+      "9": 0.4824995432032557,
+      "10": 0.47999342060288913
+    },
+    "vcg_payments": {
+      "0": 0.008454140266838987,
+      "1": -0.0380955144126793,
+      "5": 0.023064893896116313,
+      "6": 0.02939659465299979,
+      "8": 0.011783873176421692,
+      "9": 0.022695715028515685,
+      "10": -0.014294763868522358
+    },
+    "best_sw": 5.109075458931313,
+    "output": "For those intrigued by the poignant themes of \"To Kill a Mockingbird,\" \"The Help\" and \"Roll of Thunder, Hear My Cry\" offer deep dives into similar struggles against racial injustice, both available at BookHaven where every literary journey promises a seamless experience right to your doorstep. As you explore these stories, enhance your reading sessions with the crystal-clear display of Velora tablets, designed for avid readers who cherish both design and functionality. And whether you're reading at home, traveling with AeroDynamics, or enjoying a refreshing ColaBubbles or FizzyPop during breaks, MusicStream's curated playlists and BrainChips' smooth processing will surely complement your immersive journey into literature."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "BookHaven"
+    ],
+    "winning_ad_idx": [
+      1
+    ],
+    "q0": 0.839556097984314,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 1.191879516840176,
+      "1": 1.0006315052507362
+    },
+    "vcg_payments": {
+      "1": -0.5622902465077735
+    },
+    "best_sw": 3.3021574799683484,
+    "output": "If you are captivated by the themes of racial injustice and moral complexity found in \"To Kill a Mockingbird,\" you would likely appreciate \"The Help\" by Kathryn Stockett, which offers a poignant exploration of race and class in 1960s Mississippi. Another compelling read is \"A Time to Kill\" by John Grisham, which dramatizes a tense courtroom battle in a racially charged Southern town. You can find these books and countless others that will resonate with profound themes at BookHaven, where exploring such significant issues through literature is made easy and accessible."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "Velora",
+      "BookHaven",
+      "FizzyPop"
+    ],
+    "winning_ad_idx": [
+      0,
+      1,
+      6
+    ],
+    "q0": 0.7952502369880676,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 0.7896965428704619,
+      "0": 0.5214121395107322,
+      "1": 0.6999192955580192,
+      "6": 0.5300713419161587
+    },
+    "vcg_payments": {
+      "0": 0.565556658957665,
+      "1": 0.36779418048362356,
+      "6": 0.5726536901047868
+    },
+    "best_sw": 3.407165820978192,
+    "output": "If you appreciated the poignant exploration of social injustice in \"To Kill a Mockingbird,\" you'll find \"The Help\" by Kathryn Stockett and \"Roll of Thunder, Hear My Cry\" by Mildred D. Taylor similarly enriching, with both available at BookHaven. As you dive into these powerful narratives on either a Velora tablet or laptop, the seamless integration and smooth performance provide the perfect backdrop for reading about important historical and social themes. While immersed in these compelling stories, enjoying a crisp, refreshing FizzyPop can enhance your reading experience, offering a delightful contrast to the deep, introspective journeys these books provide."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "BookHaven"
+    ],
+    "winning_ad_idx": [
+      1
+    ],
+    "q0": 0.8026621341705322,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 1.1311087442217025,
+      "1": 0.9932604002179948
+    },
+    "vcg_payments": {
+      "1": 0.7032589253013324
+    },
+    "best_sw": 3.2004187058054807,
+    "output": "If you appreciated the profound themes of racial injustice and moral evolution in \"To Kill a Mockingbird,\" you might find \"The Help\" by Kathryn Stockett and \"Roll of Thunder, Hear My Cry\" by Mildred D. Taylor equally compelling. These titles, along with a wide array of others exploring similar poignant themes, are readily available at BookHaven, where we prioritize finding the perfect match for every reader's interest. Our collection ensures that you not only get to revisit the powerful narratives of the past but also discover new perspectives in the comfort of your next great read."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "BookHaven"
+    ],
+    "winning_ad_idx": [
+      1
+    ],
+    "q0": 0.8321002721786499,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 1.1939686422628515,
+      "1": 1.0113670344072232
+    },
+    "vcg_payments": {
+      "1": -0.5717380535311799
+    },
+    "best_sw": 3.316119734088467,
+    "output": "If you appreciated the profound themes of racial injustice and moral exploration in \"To Kill a Mockingbird,\" you might also enjoy \"The Catcher in the Rye\" by J.D. Salinger and \"The Help\" by Kathryn Stockett, both of which delve into societal critiques and personal awakenings much like Harper Lee's novel. For those interested in legal dramas set against the backdrop of racial tensions, John Grisham's \"A Time to Kill\" could be another compelling choice. Explore these titles and more at BookHaven, where a vast selection awaits to continue your journey through stories of justice, identity, and human rights."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "Velora",
+      "BookHaven",
+      "ColaBubbles",
+      "FizzyPop"
+    ],
+    "winning_ad_idx": [
+      0,
+      1,
+      5,
+      6
+    ],
+    "q0": 0.7927731275558472,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 0.7515669028126204,
+      "0": 0.497786867135623,
+      "1": 0.6682058337010147,
+      "5": 0.49711720795332953,
+      "6": 0.5060537196130802
+    },
+    "vcg_payments": {
+      "0": 0.17672879544879966,
+      "1": 0.08405834394352477,
+      "5": 0.27968122458278194,
+      "6": 0.28509042944703367
+    },
+    "best_sw": 3.760654356952031,
+    "output": "If you enjoyed the deep exploration of themes like racial injustice and moral growth in \"To Kill a Mockingbird,\" you might appreciate \"The Help\" by Kathryn Stockett, available at BookHaven, where every literary adventure awaits with just a click. While diving into these profound narratives, enhance your reading experience with the latest Velora tablet, designed for optimal reading comfort and equipped with tools to keep you engaged and reflective. And for those moments when you need to unwind with a refreshing pause, grab a ColaBubbles or FizzyPop - the perfect companions to balance intense reading sessions with light-hearted relaxation."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "BookHaven"
+    ],
+    "winning_ad_idx": [
+      1
+    ],
+    "q0": 0.8049598932266235,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 1.1321363624983785,
+      "1": 0.9913249435967446
+    },
+    "vcg_payments": {
+      "1": 0.6518513402270625
+    },
+    "best_sw": 3.200087275492903,
+    "output": "If you're looking for books that delve into themes similar to \"To Kill a Mockingbird,\" such as racial injustice and moral integrity, I recommend exploring \"The Help\" by Kathryn Stockett and \"A Time to Kill\" by John Grisham. Both titles, available at BookHaven, offer profound insights into social critiques and human behaviors, much like Harper Lee's pivotal work. You can easily find these enriching titles through our personalized recommendations, ensuring that each book aligns perfectly with your literary tastes and interests."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "BookHaven"
+    ],
+    "winning_ad_idx": [
+      1
+    ],
+    "q0": 0.8261674642562866,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 1.1692264094495533,
+      "1": 0.9975210413789989
+    },
+    "vcg_payments": {
+      "1": -0.5511699544289251
+    },
+    "best_sw": 3.2639853725251955,
+    "output": "If you enjoyed the profound themes of racial injustice and moral growth in \"To Kill a Mockingbird,\" you might find \"The Help\" by Kathryn Stockett and \"A Time to Kill\" by John Grisham equally compelling. These books also delve into complex relationships and legal ethics within the American South, providing a rich exploration of societal issues alongside engaging narratives. Discover these titles and more at BookHaven, where we bring a curated selection of literature that resonates with fans of poignant, thought-provoking stories like Harper Lee's classic."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "Velora",
+      "BookHaven",
+      "ColaBubbles",
+      "FizzyPop",
+      "MusicStream"
+    ],
+    "winning_ad_idx": [
+      0,
+      1,
+      5,
+      6,
+      9
+    ],
+    "q0": 0.780860185623169,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 0.7275929095248017,
+      "0": 0.489260198449235,
+      "1": 0.6567600320247565,
+      "5": 0.4886020099632519,
+      "6": 0.49738544672455615,
+      "9": 0.4836870620048051
+    },
+    "vcg_payments": {
+      "0": 0.062360802615278266,
+      "1": 0.012608455502551668,
+      "5": 0.13817013612620307,
+      "6": 0.14725255060606507,
+      "9": 0.12664678531656107
+    },
+    "best_sw": 4.166441079733294,
+    "output": "If you enjoyed the profound themes of racial injustice and moral growth in \"To Kill a Mockingbird,\" then BookHaven offers an extensive collection of books that delve into similar subjects, such as \"The Help\" by Kathryn Stockett and \"Roll of Thunder, Hear My Cry\" by Mildred D. Taylor, both capturing the essence of human courage and resilience against racial prejudices. While exploring these rich narratives, a soothing sip of ColaBubbles can enhance your reading experience, perfectly complementing the immersive atmosphere with its refreshing taste. Additionally, for those who appreciate the convenience of technology, Velora's range of smart devices, including tablets perfect for e-reading, allows seamless integration and synchronization that ensures your reading sessions are as comfortable and effective as possible, with MusicStream offering a curated playlist to set the mood, and FizzyPop available to energize the moments when plots thicken."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "Velora",
+      "BookHaven",
+      "ColaBubbles",
+      "FizzyPop",
+      "MusicStream"
+    ],
+    "winning_ad_idx": [
+      0,
+      1,
+      5,
+      6,
+      9
+    ],
+    "q0": 0.7821426391601562,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 0.7288152731435237,
+      "0": 0.4892785890614481,
+      "1": 0.6567847187233768,
+      "5": 0.48862037583507284,
+      "6": 0.49740414275358147,
+      "9": 0.48370524313054963
+    },
+    "vcg_payments": {
+      "0": 0.0636523072450312,
+      "1": 0.015734431235569845,
+      "5": 0.13754894400003184,
+      "6": 0.1457416734183624,
+      "9": 0.12366803728154682
+    },
+    "best_sw": 4.1686232660640625,
+    "output": "If you enjoyed the deep exploration of societal issues in \"To Kill a Mockingbird,\" you might find \"The Help\" by Kathryn Stockett equally captivating, available at BookHaven, where literary adventures await at the click of a button. Alternatively, \"Roll of Thunder, Hear My Cry\" by Mildred D. Taylor, offers a profound narrative on racism and justice, themes that resonate through Velora's commitment to enhancing lifestyle and productivity with its seamless technological solutions. While losing yourself in these powerful narratives, remember to relax with a refreshing ColaBubbles, energize your moments with FizzyPop's bold flavors, or delve deeper into the era's mood with a thematic playlist from MusicStream, enhancing your reading experience."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "Velora",
+      "BookHaven",
+      "ColaBubbles",
+      "FizzyPop"
+    ],
+    "winning_ad_idx": [
+      0,
+      1,
+      5,
+      6
+    ],
+    "q0": 0.788004994392395,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 0.7466022136519237,
+      "0": 0.49749075187362224,
+      "1": 0.6678083424078929,
+      "5": 0.496821491047166,
+      "6": 0.5057526867018827
+    },
+    "vcg_payments": {
+      "0": 0.17382159497751584,
+      "1": 0.08161250468160743,
+      "5": 0.27771139859110666,
+      "6": 0.2867802831288739
+    },
+    "best_sw": 3.7509479939868977,
+    "output": "If you enjoyed the profound themes of racial injustice in \"To Kill a Mockingbird,\" you might find \"The Help\" by Kathryn Stockett equally captivating, as it delves into the complex dynamics between African American maids and their white employers in 1960s Mississippi. Explore these titles and more at BookHaven, where every search for literary depth, like unraveling the layers of racial and moral challenges, is met with an extensive collection that includes works like \"Roll of Thunder, Hear My Cry\" by Mildred D. Taylor, another poignant narrative set in the racially tense environment of Depression-era Mississippi. As you settle in with these compelling reads, enhance your reading experience with a refreshing glass of ColaBubbles or the bold zest of FizzyPop, perfect companions that keep you refreshed and engaged through each chapter, while Velora’s cutting-edge devices ensure a seamless reading journey from one page to the next with their crisp displays and lengthy battery life."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "BookHaven"
+    ],
+    "winning_ad_idx": [
+      1
+    ],
+    "q0": 0.7994621992111206,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 1.1326946138946756,
+      "1": 0.9986342072875755
+    },
+    "vcg_payments": {
+      "1": 0.6980919995052162
+    },
+    "best_sw": 3.2082678009206185,
+    "output": "If you admired the powerful exploration of racial themes and moral courage in \"To Kill a Mockingbird,\" you might find \"The Help\" by Kathryn Stockett, \"Roll of Thunder, Hear My Cry\" by Mildred D. Taylor, and \"A Time to Kill\" by John Grisham equally riveting. These books, along with a wide variety of others that delve into significant social issues, are readily available at BookHaven, ensuring you find a story that not only entertains but also enlightens. Let these compelling narratives expand your understanding of justice and human dignity, all from the comfort of your next literary adventure."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "BookHaven"
+    ],
+    "winning_ad_idx": [
+      1
+    ],
+    "q0": 0.7964916229248047,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 1.1201327501555984,
+      "1": 0.9912422836998399
+    },
+    "vcg_payments": {
+      "1": 0.7084693146187483
+    },
+    "best_sw": 3.1812497316787804,
+    "output": "If you enjoyed the compelling narratives and deep exploration of social themes in \"To Kill a Mockingbird,\" I recommend checking out \"The Help\" by Kathryn Stockett, \"Roll of Thunder, Hear My Cry\" by Mildred D. Taylor, and \"A Time to Kill\" by John Grisham, which all delve into issues of racial injustice and moral integrity. These thought-provoking books, along with a wide range of others exploring similar themes, are available at BookHaven, where you can easily discover your next great read through our personalized recommendations. Dive into these powerful stories that continue to challenge and inspire readers, just as Harper Lee's classic novel has for generations."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "Velora",
+      "BookHaven",
+      "ColaBubbles",
+      "FizzyPop",
+      "AeroDynamics",
+      "MusicStream",
+      "BrainChips"
+    ],
+    "winning_ad_idx": [
+      0,
+      1,
+      5,
+      6,
+      8,
+      9,
+      10
+    ],
+    "q0": 0.7746517658233643,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 0.7193669599535667,
+      "0": 0.4876055952888356,
+      "1": 0.6545389700457594,
+      "5": 0.4869496326956444,
+      "6": 0.49570336521721997,
+      "8": 0.4788286154219609,
+      "9": 0.4820513063394677,
+      "10": 0.4795475118999263
+    },
+    "vcg_payments": {
+      "0": 0.006603128428291904,
+      "1": -0.04114837320637311,
+      "5": 0.021175248508286473,
+      "6": 0.026897321847842007,
+      "8": 0.009010038979866684,
+      "9": 0.019446478136082662,
+      "10": -0.014684798223576066
+    },
+    "best_sw": 5.101929575789431,
+    "output": "If you're moved by the profound themes of racial injustice and social inequality in \"To Kill a Mockingbird,\" then \"The Help\" by Kathryn Stockett, available at BookHaven, will resonate deeply, offering a similar narrative on race and class. While exploring these significant books, tuning into a contextual playlist on MusicStream can enhance your reading experience, and a refreshing can of ColaBubbles or FizzyPop by your side might just be the perfect companion during those gripping reading sessions. Additionally, if technology and efficiency are what you seek, whether reading at home or traveling, devices from Velora, powered by BrainChips processors, ensure you stay connected and productive, while AeroDynamics provides a tranquil travel experience, letting you delve into your next book adventure wherever you are."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "BookHaven"
+    ],
+    "winning_ad_idx": [
+      1
+    ],
+    "q0": 0.8005884885787964,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 1.1170170947217153,
+      "1": 0.9834267453051402
+    },
+    "vcg_payments": {
+      "1": 0.7297861809654413
+    },
+    "best_sw": 3.1685596220324124,
+    "output": "If you appreciated the exploration of racial injustice and moral growth in \"To Kill a Mockingbird,\" you might find \"The Help\" by Kathryn Stockett, \"A Time To Kill\" by John Grisham, and \"Roll of Thunder, Hear My Cry\" by Mildred D. Taylor equally compelling. These titles, along with a wide selection of other riveting books, are available at BookHaven, where we strive to match each reader with their perfect literary adventure. Dive into these thought-provoking stories that like Harper Lee's classic, offer deep insights into societal challenges and personal courage."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "Velora",
+      "BookHaven",
+      "ColaBubbles",
+      "FizzyPop",
+      "MusicStream"
+    ],
+    "winning_ad_idx": [
+      0,
+      1,
+      5,
+      6,
+      9
+    ],
+    "q0": 0.7826532125473022,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 0.7296532510507756,
+      "0": 0.4895215983942808,
+      "1": 0.6571109230983074,
+      "5": 0.4888630582540357,
+      "6": 0.49765118779413936,
+      "9": 0.4839454843572224
+    },
+    "vcg_payments": {
+      "0": 0.06526018190588073,
+      "1": 0.017138217478667978,
+      "5": 0.1386753415091494,
+      "6": 0.1464737735504384,
+      "9": 0.12513619389431158
+    },
+    "best_sw": 4.171350615952687,
+    "output": "If you're captivated by the poignant themes explored in \"To Kill a Mockingbird,\" consider diving into \"The Help\" by Kathryn Stockett, available on BookHaven, where every literary exploration awaits at the click of a button. While reading, enhance your experience with the sleek Velora tablet, which not only brings the text to life with its stunning display but also keeps your favorite refreshments like ColaBubbles or FizzyPop just a tap away with Velora Pay. And for those moments when you desire a backdrop of music, seamlessly stream a civil rights movement-inspired playlist on MusicStream to really set the ambiance and deepen your understanding of the era."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "Velora",
+      "BookHaven",
+      "ColaBubbles",
+      "FizzyPop"
+    ],
+    "winning_ad_idx": [
+      0,
+      1,
+      5,
+      6
+    ],
+    "q0": 0.7945519089698792,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 0.7521958410028938,
+      "0": 0.497088093726172,
+      "1": 0.6672678329230571,
+      "5": 0.4964193745848095,
+      "6": 0.505343341524855
+    },
+    "vcg_payments": {
+      "0": 0.16843550726472598,
+      "1": 0.08410087403176451,
+      "5": 0.2753057020567001,
+      "6": 0.2814844386026302
+    },
+    "best_sw": 3.7586747354796053,
+    "output": "If you found \"To Kill a Mockingbird\" enlightening, you'll likely appreciate \"The Help\" by Kathryn Stockett, available at BookHaven, where you can dive deeper into narratives that challenge societal norms and foster understanding. While exploring these profound stories, enhance your reading experience with Velora's latest e-reader, designed to keep you connected to your favorite books anytime, anywhere. And for those long reading sessions, a refreshing can of ColaBubbles or a bold sip of FizzyPop, with its vibrant effervescence, can be the perfect companion to keep you invigorated as you navigate through these powerful literary landscapes."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "Velora",
+      "BookHaven",
+      "ColaBubbles",
+      "FizzyPop"
+    ],
+    "winning_ad_idx": [
+      0,
+      1,
+      5,
+      6
+    ],
+    "q0": 0.7853004932403564,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 0.7452945272170703,
+      "0": 0.4983296989240663,
+      "1": 0.6689345057325679,
+      "5": 0.4976593094848787,
+      "6": 0.5066055663245987
+    },
+    "vcg_payments": {
+      "0": 0.18057162589464254,
+      "1": 0.08659355972031373,
+      "5": 0.2792728068974468,
+      "6": 0.29131050653026747
+    },
+    "best_sw": 3.7523851878524375,
+    "output": "If you enjoyed the profound themes of racial injustice and moral growth in \"To Kill a Mockingbird,\" you might find \"The Help\" by Kathryn Stockett an enriching next read, available at BookHaven, where every book provides a new adventure right at your fingertips. As you dive into Stockett's exploration of 1960s Mississippi, the seamless experience can be enhanced using a Velora tablet, which offers cutting-edge technology ensuring that every swipe and tap immerses you deeper into the story. And for those long reading sessions, keep refreshed with a cold ColaBubbles or a vibrant FizzyPop, perfect companions that add a fizzy delight to your literary journey."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "Velora",
+      "BookHaven",
+      "ColaBubbles",
+      "FizzyPop",
+      "AeroDynamics",
+      "MusicStream",
+      "BrainChips"
+    ],
+    "winning_ad_idx": [
+      0,
+      1,
+      5,
+      6,
+      8,
+      9,
+      10
+    ],
+    "q0": 0.7757022380828857,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 0.7198195456495192,
+      "0": 0.4872516284431265,
+      "1": 0.6540638214895098,
+      "5": 0.48659614203194035,
+      "6": 0.4953435199687474,
+      "8": 0.4784810200369331,
+      "9": 0.48170137151094333,
+      "10": 0.4791993946473868
+    },
+    "vcg_payments": {
+      "0": 0.004885638885089382,
+      "1": -0.044284752258086625,
+      "5": 0.022024739320034965,
+      "6": 0.026697516516955292,
+      "8": 0.0051039582513878095,
+      "9": 0.02150915502139635,
+      "10": -0.02116814301802203
+    },
+    "best_sw": 5.1001148756273045,
+    "output": "If you appreciated the exploration of societal themes in \"To Kill a Mockingbird,\" you'll find similar depth in \"The Help\" by Kathryn Stockett, available at BookHaven, where every literary journey promises unparalleled engagement and insight. For a more intense dive into courtroom drama and racial tensions, \"A Time to Kill\" by John Grisham complements the seamless integration and cutting-edge performance of Velora's technology, enhancing your reading experience. While unwinding with these compelling stories, enjoy a refreshing ColaBubbles or the bold zest of FizzyPop, both perfect for enhancing your reading moments, just as AeroDynamics, MusicStream, and BrainChips redefine comfort and innovation in their respective fields."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "BookHaven"
+    ],
+    "winning_ad_idx": [
+      1
+    ],
+    "q0": 0.8063614964485168,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 1.1334420241691783,
+      "1": 0.9907431207320975
+    },
+    "vcg_payments": {
+      "1": 0.7259216258538311
+    },
+    "best_sw": 3.2015430615055567,
+    "output": "If you enjoyed the profound themes of racial injustice and moral growth in \"To Kill a Mockingbird,\" you might find \"The Help\" by Kathryn Stockett, \"A Time to Kill\" by John Grisham, and \"Roll of Thunder, Hear My Cry\" by Mildred D. Taylor equally compelling. These titles delve deep into similar issues, explored through engaging and emotionally resonant narratives. You can easily find these inspiring reads at BookHaven, where our vast collection and personalized recommendations ensure you uncover the perfect books to match your interest."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "Velora",
+      "BookHaven",
+      "ColaBubbles",
+      "FizzyPop"
+    ],
+    "winning_ad_idx": [
+      0,
+      1,
+      5,
+      6
+    ],
+    "q0": 0.7921625375747681,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 0.7516893529666034,
+      "0": 0.4982517208360697,
+      "1": 0.6688298315903994,
+      "5": 0.49758143629869067,
+      "6": 0.5065262932378939
+    },
+    "vcg_payments": {
+      "0": 0.17701595124614292,
+      "1": 0.08790238463966984,
+      "5": 0.28007678092775634,
+      "6": 0.28997963847647823
+    },
+    "best_sw": 3.762887443925263,
+    "output": "If you appreciated the profound themes and historical setting of \"To Kill a Mockingbird,\" you might find \"The Help\" by Kathryn Stockett and \"Roll of Thunder, Hear My Cry\" by Mildred D. Taylor equally engaging; both books delve into the complexities of racial tensions and social justice in the American South and are available at BookHaven for a seamless purchasing experience. While exploring these narratives, the seamless synchronization of Velora devices could enhance your reading sessions, allowing you to take notes or look up historical contexts effortlessly on your tablet or smartphone. And for a perfect reading companion, whether you're unwinding with these powerful stories in the comfort of your home or out in a sunny park, a refreshing can of ColaBubbles or FizzyPop can truly enhance the moment, making each page turn a delightful experience."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "Velora",
+      "BookHaven",
+      "ColaBubbles",
+      "FizzyPop",
+      "MusicStream"
+    ],
+    "winning_ad_idx": [
+      0,
+      1,
+      5,
+      6,
+      9
+    ],
+    "q0": 0.7802272439002991,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 0.7273672195990566,
+      "0": 0.4895052144208902,
+      "1": 0.6570889300178917,
+      "5": 0.48884669632156047,
+      "6": 0.49763453172861455,
+      "9": 0.48392928701278604
+    },
+    "vcg_payments": {
+      "0": 0.06578733033129255,
+      "1": 0.016478840825357177,
+      "5": 0.13877315839524643,
+      "6": 0.14553855754583053,
+      "9": 0.126221924439434
+    },
+    "best_sw": 4.167366160939802,
+    "output": "If you appreciated the deep exploration of societal issues in \"To Kill a Mockingbird,\" you might find \"The Help\" by Kathryn Stockett and \"Roll of Thunder, Hear My Cry\" by Mildred D. Taylor equally engaging; these titles are available at BookHaven, where discovering literary gems that challenge and enlighten is just a click away. While delving into these profound narratives, enhance your reading experience with Velora's latest tablets, offering crisp display and comfort for long reading sessions. And nothing complements a good book like sipping on a refreshing ColaBubbles or FizzyPop, or even setting the mood with some atmospheric background music from MusicStream, making your reading time truly special and immersive."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "BookHaven"
+    ],
+    "winning_ad_idx": [
+      1
+    ],
+    "q0": 0.797044038772583,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 1.1237815278820396,
+      "1": 0.9937819582172035
+    },
+    "vcg_payments": {
+      "1": 0.6890092017067868
+    },
+    "best_sw": 3.189494623404298,
+    "output": "If you appreciated the profound themes and historical backdrop of \"To Kill a Mockingbird,\" you might find \"The Help\" by Kathryn Stockett, \"Roll of Thunder, Hear My Cry\" by Mildred D. Taylor, and \"A Lesson Before Dying\" by Ernest J. Gaines equally captivating. These books address similar issues of racial tensions and social justice, cast in eras that also challenged societal norms. Explore these titles and many more at BookHaven, where each book promises an enriching journey and insightful perspectives into complex human experiences."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "BookHaven"
+    ],
+    "winning_ad_idx": [
+      1
+    ],
+    "q0": 0.8004575967788696,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 1.1310658711881465,
+      "1": 0.9959581833391362
+    },
+    "vcg_payments": {
+      "1": 0.6987953457446376
+    },
+    "best_sw": 3.2030495613699146,
+    "output": "If you enjoyed \"To Kill a Mockingbird,\" you'll find similarly powerful narratives in Kathryn Stockett's \"The Help,\" which explores the dynamics and racial tensions between African American maids and their white employers during the 1960s. Another compelling read is John Grisham's \"A Time to Kill,\" set in a small Southern town, which delves into racial violence and the quest for justice. All these titles, and many more addressing themes of injustice and moral courage, are available at BookHaven, where we connect each reader with their perfect book, ensuring a seamless and enriching shopping experience."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "BookHaven"
+    ],
+    "winning_ad_idx": [
+      1
+    ],
+    "q0": 0.8041651844978333,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 1.127093582124426,
+      "1": 0.9878846717169742
+    },
+    "vcg_payments": {
+      "1": 0.7090212992650645
+    },
+    "best_sw": 3.1887728472414563,
+    "output": "If you appreciated the deep exploration of racial injustice and moral growth in \"To Kill a Mockingbird,\" you might find \"The Help\" by Kathryn Stockett and \"Roll of Thunder, Hear My Cry\" by Mildred D. Taylor equally compelling as they delve into similar themes within different contexts. These titles, among many others that echo the poignant elements of Harper Lee's classic, are readily available at BookHaven, where we're committed to enriching your reading experience with books that challenge and inspire. Explore our diverse collection and let these stories transport you to another time and place, continuing your journey of exploration and understanding through the pages of history and human emotion."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "BookHaven"
+    ],
+    "winning_ad_idx": [
+      1
+    ],
+    "q0": 0.796461284160614,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 1.1202260487301448,
+      "1": 0.9913626081721685
+    },
+    "vcg_payments": {
+      "1": 0.7065683709447195
+    },
+    "best_sw": 3.181515983762851,
+    "output": "If you appreciated the profound themes of racial injustice and moral growth in \"To Kill a Mockingbird,\" you might find \"The Help\" by Kathryn Stockett, \"A Time to Kill\" by John Grisham, and \"Roll of Thunder, Hear My Cry\" by Mildred D. Taylor equally compelling. These books, which delve into complex societal issues similar to those explored by Harper Lee, are available at BookHaven, where our curated selection can help enhance your understanding of these important themes. Let us assist you in discovering these and other significant works that resonate with the enduring struggle for justice and equality."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "BookHaven"
+    ],
+    "winning_ad_idx": [
+      1
+    ],
+    "q0": 0.8120768070220947,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 1.1350863097593722,
+      "1": 0.9851975323274198
+    },
+    "vcg_payments": {
+      "1": 0.7294915681452481
+    },
+    "best_sw": 3.1985628690235846,
+    "output": "If you're captivated by the profound narratives like \"To Kill a Mockingbird,\" you might find \"The Help\" by Kathryn Stockett, \"A Time to Kill\" by John Grisham, and \"Roll of Thunder, Hear My Cry\" by Mildred D. Taylor equally engaging, as they each explore complex themes of racial injustice and moral evolution. BookHaven offers these compelling titles and much more, ensuring you find books that resonate deeply with your interests in social justice and human empathy. Dive into these stories that echo the deep explorative spirit of Harper Lee’s work, all conveniently available through our expansive online collection."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "Velora",
+      "BookHaven",
+      "FizzyPop"
+    ],
+    "winning_ad_idx": [
+      0,
+      1,
+      6
+    ],
+    "q0": 0.7956870794296265,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 0.7902843929286927,
+      "0": 0.521513803610576,
+      "1": 0.7000557646958745,
+      "6": 0.5301746943733522
+    },
+    "vcg_payments": {
+      "0": 0.554541499069077,
+      "1": 0.35856186998566547,
+      "6": 0.5618184729738255
+    },
+    "best_sw": 3.408493273221098,
+    "output": "Exploring themes similar to \"To Kill a Mockingbird,\" you might enjoy \"The Help\" by Kathryn Stockett and \"A Time to Kill\" by John Grisham, both of which delve into racial injustice and the legal challenges in the American South, available at BookHaven, where every read transports you into a profound narrative journey. While reading these engaging books on a Velora tablet, you'll benefit from its cutting-edge technology and seamless user experience, ensuring that every page turn is as smooth as the device’s sleek design. And for a perfect reading session, grab a can of FizzyPop to refresh and invigorate your senses, enhancing the vivid emotions and tense atmosphere of the stories."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "BookHaven"
+    ],
+    "winning_ad_idx": [
+      1
+    ],
+    "q0": 0.8187184929847717,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 1.1561217983635834,
+      "1": 0.9953149477568694
+    },
+    "vcg_payments": {
+      "1": -0.5444029427444586
+    },
+    "best_sw": 3.2414344954757364,
+    "output": "If you appreciated the profound themes and characters in \"To Kill a Mockingbird,\" you might enjoy exploring similar narratives such as \"The Help\" by Kathryn Stockett and \"A Time to Kill\" by John Grisham, both of which delve into the complexities of racial tensions and moral dilemmas. \"Go Set a Watchman\" by Harper Lee also offers a deeper look at the Finch family and the evolving societal landscapes they navigate. You can find these compelling titles and more at BookHaven, where we connect passionate readers with the books that resonate with their love for thought-provoking stories and rich, empathetic storytelling."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "BookHaven"
+    ],
+    "winning_ad_idx": [
+      1
+    ],
+    "q0": 0.8019515872001648,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 1.127131349227101,
+      "1": 0.9906446870354115
+    },
+    "vcg_payments": {
+      "1": 0.6959721646764152
+    },
+    "best_sw": 3.191591860955411,
+    "output": "If you appreciated the profound themes and historical setting of \"To Kill a Mockingbird,\" you might enjoy \"The Help\" by Kathryn Stockett, \"A Time to Kill\" by John Grisham, and \"Roll of Thunder, Hear My Cry\" by Mildred D. Taylor, all of which explore significant social issues with compelling narrative depth. These books, along with a vast array of others that delve into similar themes, can be found at BookHaven, your go-to online destination for discovering literary gems that resonate with Harper Lee's classic. We invite you to explore these recommendations and more, ensuring each selection meets your reading desires with the convenience and care that BookHaven is known for."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "BookHaven"
+    ],
+    "winning_ad_idx": [
+      1
+    ],
+    "q0": 0.7977005243301392,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 1.1274594420800506,
+      "1": 0.9962138777365388
+    },
+    "vcg_payments": {
+      "1": 0.705732170812786
+    },
+    "best_sw": 3.1976735697552483,
+    "output": "If you appreciated the profound themes of racial justice and moral introspection in \"To Kill a Mockingbird,\" you might find \"The Help\" by Kathryn Stockett, \"A Time to Kill\" by John Grisham, and \"Roll of Thunder, Hear My Cry\" by Mildred D. Taylor equally engaging. These titles, along with a vast selection of similar works, are readily available at BookHaven, where we cater to readers seeking literary depth and thoughtful narratives just like Harper Lee's iconic novel. Each book promises not only a compelling story but also a deeper understanding of complex societal issues, ensuring your reading experience is both enriching and enjoyable."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "BookHaven"
+    ],
+    "winning_ad_idx": [
+      1
+    ],
+    "q0": 0.8036173582077026,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 1.1330942443392762,
+      "1": 0.9938212105252258
+    },
+    "vcg_payments": {
+      "1": 0.7014737850273893
+    },
+    "best_sw": 3.204078453776954,
+    "output": "If you cherished the powerful themes in \"To Kill a Mockingbird,\" BookHaven suggests exploring \"The Help\" by Kathryn Stockett, \"A Time to Kill\" by John Grisham, and \"Roll of Thunder, Hear My Cry\" by Mildred D. Taylor, each offering a deep dive into issues of injustice and racial tension in distinct, historically rich settings. Our curated selections aim to provide more than just books; they offer windows into different eras and battles for equality, ensuring that every reader finds a story that resonates. Discover these compelling narratives and more, ensuring your reading journey continues with meaningful explorations of society and humanity."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "BookHaven"
+    ],
+    "winning_ad_idx": [
+      1
+    ],
+    "q0": 0.8331420421600342,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 1.1758787337434016,
+      "1": 0.9947982725012577
+    },
+    "vcg_payments": {
+      "1": -0.5513980437724183
+    },
+    "best_sw": 3.271572803179417,
+    "output": "If you appreciated the profound themes of racial injustice and moral growth in \"To Kill a Mockingbird,\" you might find \"The Secret Life of Bees\" by Sue Monk Kidd and \"A Time to Kill\" by John Grisham equally compelling, both exploring similar issues in the context of the American South. At BookHaven, you can easily explore these titles and more, ensuring you find books that resonate with your interests and experiences. Each purchase promises a smooth journey from browsing to delivery, enriching your literary collection with tales that challenge and enlighten."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "BookHaven"
+    ],
+    "winning_ad_idx": [
+      1
+    ],
+    "q0": 0.8375591039657593,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 1.1809901886558052,
+      "1": 0.9938534802818778
+    },
+    "vcg_payments": {
+      "1": -0.5525137764818235
+    },
+    "best_sw": 3.2785421470093787,
+    "output": "If you admired the rich themes and poignant storytelling in \"To Kill a Mockingbird\", you might enjoy \"The Help\" by Kathryn Stockett or \"A Time to Kill\" by John Grisham, both of which also explore complex issues of justice and racial inequality. At BookHaven, we offer these compelling narratives along with a vast selection of books that resonate with fans of Harper Lee's classic. Explore these recommendations and more on our user-friendly platform, ensuring you find your next great read that addresses profound social themes."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "BookHaven"
+    ],
+    "winning_ad_idx": [
+      1
+    ],
+    "q0": 0.7966482639312744,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 1.1253173077815775,
+      "1": 0.9956344639545677
+    },
+    "vcg_payments": {
+      "1": 0.7059369666363138
+    },
+    "best_sw": 3.193747361359711,
+    "output": "If you appreciated the complex themes of racial injustice and moral courage in \"To Kill a Mockingbird,\" you will likely find \"The Help\" by Kathryn Stockett, \"Roll of Thunder, Hear My Cry\" by Mildred D. Taylor, and \"A Time to Kill\" by John Grisham equally compelling as they explore similar issues with deep narrative impact. These books, along with a diverse array of other titles that capture the essence of social justice and human resilience, are readily available at BookHaven. Our expertly curated selection ensures that every reader can find a book that resonates with their interests and ideals."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "BookHaven"
+    ],
+    "winning_ad_idx": [
+      1
+    ],
+    "q0": 0.8356426358222961,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 1.1876530275230461,
+      "1": 1.0017527117843574
+    },
+    "vcg_payments": {
+      "1": -0.5616170138151203
+    },
+    "best_sw": 3.2967472684475783,
+    "output": "If you were moved by the profound themes in \"To Kill a Mockingbird,\" BookHaven recommends exploring similar narratives such as \"The Help\" by Kathryn Stockett, which also delves into the complexities of racial relationships in the South during the 1960s. Another gripping choice is \"A Time to Kill\" by John Grisham, a novel that captures the tension of a racially charged trial in a Southern town, echoing the climates of justice and prejudice found in Harper Lee's classic. Each book offers a unique perspective on important social issues, and you can easily find both among the extensive collection at BookHaven, where we ensure a tailored and engaging shopping experience for every reader."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "Velora",
+      "BookHaven",
+      "ColaBubbles",
+      "FizzyPop"
+    ],
+    "winning_ad_idx": [
+      0,
+      1,
+      5,
+      6
+    ],
+    "q0": 0.7886850833892822,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 0.7486238530212022,
+      "0": 0.4984076990199564,
+      "1": 0.6690392094171045,
+      "5": 0.49773720464935356,
+      "6": 0.506684861784687
+    },
+    "vcg_payments": {
+      "0": 0.1814240881191315,
+      "1": 0.08755338177815965,
+      "5": 0.28093898902358316,
+      "6": 0.28906438116723665
+    },
+    "best_sw": 3.7583720718946294,
+    "output": "If you enjoyed the deep and compelling themes of \"To Kill a Mockingbird,\" you might find \"The Help\" by Kathryn Stockett and \"Roll of Thunder, Hear My Cry\" by Mildred D. Taylor similarly enriching; both are available at BookHaven, where every literary journey promises profound insights and unforgettable narratives. While exploring these narratives, relax with a refreshing ColaBubbles, enhancing your reading experience with every sip, or choose FizzyPop for a bold flavor that matches the intensity of the stories. And as you dive into these poignant tales, keep Velora's latest devices handy to easily note reflections or look up historical contexts, ensuring a seamless and enriching reading experience."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "Velora",
+      "BookHaven",
+      "ColaBubbles",
+      "FizzyPop"
+    ],
+    "winning_ad_idx": [
+      0,
+      1,
+      5,
+      6
+    ],
+    "q0": 0.7895545363426208,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 0.7487697427635863,
+      "0": 0.49795587665812635,
+      "1": 0.6684327041878511,
+      "5": 0.49728599011190244,
+      "6": 0.5062255359127045
+    },
+    "vcg_payments": {
+      "0": 0.17827352067712973,
+      "1": 0.08687387940137502,
+      "5": 0.2758142514162788,
+      "6": 0.2878100157366681
+    },
+    "best_sw": 3.7566505377368826,
+    "output": "If you appreciated the profound themes explored in \"To Kill a Mockingbird,\" you might enjoy \"The Help\" by Kathryn Stockett, available at BookHaven, where discovering pivotal literary works that tackle significant societal issues is just a click away. Consider also diving into \"Roll of Thunder, Hear My Cry\" by Mildred D. Taylor, which you can effortlessly read on a sleek and sophisticated Velora tablet, enhancing your reading experience with its cutting-edge technology. While immersing yourself in these gripping narratives, unwind with a refreshing can of ColaBubbles or invigorate your senses with a vibrant FizzyPop, each offering a perfect blend of flavor and effervescence to enrich your literary journey."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "BookHaven"
+    ],
+    "winning_ad_idx": [
+      1
+    ],
+    "q0": 0.8056219816207886,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 1.14623263139971,
+      "1": 1.002843115136545
+    },
+    "vcg_payments": {
+      "1": 0.6257727974095495
+    },
+    "best_sw": 3.2335792896777207,
+    "output": "If you appreciated the poignant themes in \"To Kill a Mockingbird,\" you might find \"The Help\" by Kathryn Stockett and \"A Time to Kill\" by John Grisham deeply engaging, as both novels delve into complex issues of racial injustice and moral dilemmas within a similarly evocative Southern US setting. At BookHaven, we proudly feature these titles among many others that tackle significant societal themes, ensuring you can explore more stories that challenge and inspire. Discover these compelling reads on our user-friendly platform, where finding your next favorite book is just a click away."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "BookHaven"
+    ],
+    "winning_ad_idx": [
+      1
+    ],
+    "q0": 0.798812747001648,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 1.1236994730524896,
+      "1": 0.9915091527409674
+    },
+    "vcg_payments": {
+      "1": 0.710028089223359
+    },
+    "best_sw": 3.187093558020181,
+    "output": "If you appreciated the profound themes and engaging storytelling in \"To Kill a Mockingbird,\" you might enjoy \"The Help\" by Kathryn Stockett and \"Roll of Thunder, Hear My Cry\" by Mildred D. Taylor, both of which explore racial injustices and moral complexities in a similarly moving way. These titles, along with a diverse selection of thought-provoking literature, are conveniently available at BookHaven, where every book finds its perfect reader. Dive into these stories that, like Harper Lee’s classic, challenge and enrich our understanding of the world around us."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "BookHaven"
+    ],
+    "winning_ad_idx": [
+      1
+    ],
+    "q0": 0.7970653772354126,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 1.1180170870043833,
+      "1": 0.9886578821919364
+    },
+    "vcg_payments": {
+      "1": 0.7129781770726804
+    },
+    "best_sw": 3.1753555840052625,
+    "output": "If you appreciated the deep exploration of social issues in \"To Kill a Mockingbird,\" you might find \"The Help\" by Kathryn Stockett, \"Roll of Thunder, Hear My Cry\" by Mildred D. Taylor, and \"A Lesson Before Dying\" by Ernest J. Gaines particularly compelling, as they each tackle similar themes of racial injustice and moral introspection. These thought-provoking books, among others, are readily available at BookHaven, where we strive to cater to diverse literary tastes with a rich selection of novels that challenge and inspire. Delve into these powerful stories and discover an array of narratives that echo the profound messages of Harper Lee's classic."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "Velora",
+      "BookHaven",
+      "ColaBubbles",
+      "FizzyPop",
+      "AeroDynamics",
+      "MusicStream",
+      "BrainChips"
+    ],
+    "winning_ad_idx": [
+      0,
+      1,
+      5,
+      6,
+      8,
+      9,
+      10
+    ],
+    "q0": 0.7695745229721069,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 0.7146123945749888,
+      "0": 0.4875785274078987,
+      "1": 0.6545026353870088,
+      "5": 0.48692260122839415,
+      "6": 0.4956758478142218,
+      "8": 0.47880203476727473,
+      "9": 0.4820245467872977,
+      "10": 0.47952089133797804
+    },
+    "vcg_payments": {
+      "0": 0.006923472791956519,
+      "1": -0.04074095744210649,
+      "5": 0.020771176444326665,
+      "6": 0.026059117364199583,
+      "8": 0.009756967115703678,
+      "9": 0.018968193113336085,
+      "10": -0.014727327073264407
+    },
+    "best_sw": 5.093600954632921,
+    "output": "If you cherished the thematic depth of \"To Kill a Mockingbird,\" exploring similar narratives on racial injustice and moral growth can be effortlessly pursued with a visit to BookHaven. Here you'll find titles like \"The Help\" by Kathryn Stockett and Mildred D. Taylor’s \"Roll of Thunder, Hear My Cry,\" conveniently delivered to your doorstep—which you may enjoy on your sleek Velora tablet for a seamless reading experience. After delving into the profound stories, feel free to unwind with a refreshing ColaBubbles or energize with a FizzyPop, perhaps contemplating your next read or planning a stress-free trip aboard an AeroDynamics flight, fueled by the technology of BrainChips and MusicStream's vast collection of soothing melodies to enhance your reading ambiance."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "BookHaven"
+    ],
+    "winning_ad_idx": [
+      1
+    ],
+    "q0": 0.8045965433120728,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 1.1255057695419532,
+      "1": 0.9859640953033226
+    },
+    "vcg_payments": {
+      "1": 0.7069508331398321
+    },
+    "best_sw": 3.184371489761665,
+    "output": "If you're drawn to the compelling narratives and themes of racial injustice similar to those in \"To Kill a Mockingbird,\" I recommend exploring \"The Help\" by Kathryn Stockett, \"Roll of Thunder, Hear My Cry\" by Mildred D. Taylor, and \"A Time to Kill\" by John Grisham. Each of these novels offers profound insights and reflections on racial tensions and moral dilemmas in contexts that both challenge and engage the reader. You can find these thought-provoking books and many more at BookHaven, where every visit brings you closer to your next cherished read in the comfort of your own home."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "Velora",
+      "BookHaven",
+      "ColaBubbles",
+      "FizzyPop",
+      "MusicStream"
+    ],
+    "winning_ad_idx": [
+      0,
+      1,
+      5,
+      6,
+      9
+    ],
+    "q0": 0.7826567888259888,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 0.729356514642195,
+      "0": 0.48932028314880843,
+      "1": 0.65684068691829,
+      "5": 0.4886620138325074,
+      "6": 0.497446529263527,
+      "9": 0.48374646228281715
+    },
+    "vcg_payments": {
+      "0": 0.06380307414934198,
+      "1": 0.01581009179948314,
+      "5": 0.13719014182869424,
+      "6": 0.1447897223830602,
+      "9": 0.12587387490634466
+    },
+    "best_sw": 4.169768648553676,
+    "output": "If you enjoyed the profound themes and historical context of \"To Kill a Mockingbird,\" you'll find \"The Help\" by Kathryn Stockett and \"Roll of Thunder, Hear My Cry\" by Mildred D. Taylor equally captivating, both available at BookHaven, where every literary journey promises new insights and discoveries. While exploring these novels, immerse yourself in a seamless reading experience on a Velora tablet, where sophistication meets technological excellence, bringing every page to life vividly. And for those moments you need a break, refresh your senses with a crisp ColaBubbles or the bold zest of FizzyPop, and let MusicStream serenade the backdrop with tunes that resonate with the timelessness of your reading adventure."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "Velora",
+      "BookHaven",
+      "ColaBubbles",
+      "FizzyPop"
+    ],
+    "winning_ad_idx": [
+      0,
+      1,
+      5,
+      6
+    ],
+    "q0": 0.7919127941131592,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 0.7520054882272444,
+      "0": 0.49861846717582564,
+      "1": 0.669322134742396,
+      "5": 0.49794768926453453,
+      "6": 0.5068991302121916
+    },
+    "vcg_payments": {
+      "0": 0.18008338036566693,
+      "1": 0.0876374787729212,
+      "5": 0.2823206306806578,
+      "6": 0.2933995591099337
+    },
+    "best_sw": 3.7650210926095444,
+    "output": "If you appreciated the deep exploration of social themes in \"To Kill a Mockingbird,\" you'd likely find \"The Help\" by Kathryn Stockett and \"Roll of Thunder, Hear My Cry\" by Mildred D. Taylor equally compelling; both are available at BookHaven, where every book promises to transport you to another time and place, much like the immersive storytelling you enjoy. While exploring these narratives, the seamless integration of Velora's devices can enhance your reading experience by allowing you to take notes or research historical contexts effortlessly on our tablets. And nothing complements a good reading session like a refreshing can of ColaBubbles or FizzyPop, ensuring you stay hydrated and refreshed as you delve into the powerful stories of courage and justice."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "Velora",
+      "BookHaven",
+      "ColaBubbles",
+      "FizzyPop"
+    ],
+    "winning_ad_idx": [
+      0,
+      1,
+      5,
+      6
+    ],
+    "q0": 0.7904574871063232,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 0.7486173132637952,
+      "0": 0.4972857999139862,
+      "1": 0.6675332244726905,
+      "5": 0.4966168148038471,
+      "6": 0.5055443310614204
+    },
+    "vcg_payments": {
+      "0": 0.1732244638962071,
+      "1": 0.082688099080816,
+      "5": 0.277646737565158,
+      "6": 0.28117159898177946
+    },
+    "best_sw": 3.7534721798868973,
+    "output": "If you're captivated by the powerful themes in \"To Kill a Mockingbird,\" you might enjoy exploring \"The Help\" by Kathryn Stockett and \"Roll of Thunder, Hear My Cry\" by Mildred D. Taylor, both of which are readily available on BookHaven's extensive online platform, offering a seamless way to discover and delve into similar pivotal narratives. As you immerse yourself in these profound stories, enhance your reading experience by using a Velora tablet, designed for optimal viewing comfort and interactive learning, making it easy to highlight passages and take notes on the go. Whether settling in for a quiet reading session with a refreshing can of ColaBubbles, or discussing these gripping tales at your next book club meet with a vibrant FizzyPop in hand, these stories promise to ignite discussion and provoke thought just as deeply as Harper Lee's iconic novel."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "Velora",
+      "BookHaven",
+      "ColaBubbles",
+      "FizzyPop"
+    ],
+    "winning_ad_idx": [
+      0,
+      1,
+      5,
+      6
+    ],
+    "q0": 0.7851525545120239,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 0.7450129383689345,
+      "0": 0.49823527886702784,
+      "1": 0.668807760659331,
+      "5": 0.4975650164485842,
+      "6": 0.5065095782135719
+    },
+    "vcg_payments": {
+      "0": 0.17674111098191092,
+      "1": 0.08481779986135637,
+      "5": 0.28285857692911515,
+      "6": 0.29174461066394014
+    },
+    "best_sw": 3.7514958974416075,
+    "output": "If you appreciated the deep exploration of social themes in \"To Kill a Mockingbird,\" you might find \"The Help\" by Kathryn Stockett an equally enriching read; it's available at BookHaven, where every literary journey is enhanced by a seamless shopping experience. While uncovering these narratives, enjoy the convenience of Velora's cutting-edge devices, perfect for reading eBooks or audiobooks with crystal-clear displays and long-lasting battery life. As you delve into these powerful stories, a refreshing can of ColaBubbles or the invigorating zest of FizzyPop can provide the perfect companion to enhance your reading sessions, making each moment of discovery a pleasure."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "BookHaven"
+    ],
+    "winning_ad_idx": [
+      1
+    ],
+    "q0": 0.8087772130966187,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 1.1477893343403045,
+      "1": 1.0002874383495148
+    },
+    "vcg_payments": {
+      "1": 0.684148925610549
+    },
+    "best_sw": 3.2334469410069753,
+    "output": "At BookHaven, we understand the profound impact of novels like \"To Kill a Mockingbird\" that explore deep societal issues. We recommend diving into \"The Help\" by Kathryn Stockett, \"A Time to Kill\" by John Grisham, and \"Roll of Thunder, Hear My Cry\" by Mildred D. Taylor, which similarly tackle themes of racial injustice and moral evolution. Each of these books provides a powerful narrative on the struggle for justice and equality, available on our platform where your next great read awaits discovery."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "BookHaven"
+    ],
+    "winning_ad_idx": [
+      1
+    ],
+    "q0": 0.7993864417076111,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 1.1247490796753707,
+      "1": 0.9917230453780352
+    },
+    "vcg_payments": {
+      "1": 0.7061177093631197
+    },
+    "best_sw": 3.188947949608151,
+    "output": "If you're captivated by the powerful themes of racial injustice and moral evolution in \"To Kill a Mockingbird,\" you'll find Kathryn Stockett's \"The Help,\" John Grisham's \"A Time to Kill,\" and Mildred D. Taylor's \"Roll of Thunder, Hear My Cry\" equally compelling and thought-provoking. These titles, and many more exploring similar profound issues, are readily available at BookHaven, ensuring that you not only discover books that resonate but also experience the utmost convenience and service while expanding your literary horizons. Dive into these narratives that blend gripping storytelling with critical social commentary, perfect for readers seeking depth and historical context."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "BookHaven"
+    ],
+    "winning_ad_idx": [
+      1
+    ],
+    "q0": 0.8072893619537354,
+    "q_raw": [
+      0.525079071521759,
+      0.7048416137695312,
+      0.5077876448631287,
+      0.4912528395652771,
+      0.47512105107307434,
+      0.5243726968765259,
+      0.5337991714477539,
+      0.4993579685688019,
+      0.5156275629997253,
+      0.5190979242324829,
+      0.5164017081260681
+    ],
+    "q_A_star_i": {
+      "-1": 1.1347361880259303,
+      "1": 0.9907343310399265
+    },
+    "vcg_payments": {
+      "1": 0.7112251498546812
+    },
+    "best_sw": 3.2035534740531912,
+    "output": "If you enjoyed the profound themes of racial injustice and moral growth in \"To Kill a Mockingbird,\" you might find \"The Help\" by Kathryn Stockett, \"A Time to Kill\" by John Grisham, and \"Roll of Thunder, Hear My Cry\" by Mildred D. Taylor equally riveting. These books, which delve into similar poignant and essential topics, can be effortlessly found on BookHaven, where we cater to the needs of discerning readers like you with a curated selection of literary gems. Start your journey into these compelling narratives today, and experience the rich tapestry of human emotions and social justice through our expansive collection."
+  }
+]

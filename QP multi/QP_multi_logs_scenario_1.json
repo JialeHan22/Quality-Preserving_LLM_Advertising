@@ -1,0 +1,3202 @@
+[
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.8143793344497681,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.885191023149311,
+      "0": 0.6778484995794827,
+      "1": 0.7284322764858875
+    },
+    "vcg_payments": {
+      "0": 1.7328562663372686,
+      "1": 1.3516096836339553
+    },
+    "best_sw": 6.0329355327273735,
+    "output": "Fly to Hawaii with SunWing Airlines and immerse yourself in the breathtaking landscapes, from the erupting spectacle of Hawaii Volcanoes National Park to the serene shores of Waikiki Beach. Once you've landed, TropicStay offers an array of unique accommodations, whether you choose to stay in a beachfront villa to soak in the sunsets or a secluded jungle hideaway for a more intimate experience with nature. Discover the vibrant cultural heritage of Hawaii by visiting historical gems like the USS Arizona Memorial at Pearl Harbor and the Polynesian Cultural Center, making your visit a truly enriching journey."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.818404495716095,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8888176529115281,
+      "0": 0.6772781233788934,
+      "1": 0.7278193365228924
+    },
+    "vcg_payments": {
+      "0": 1.7082644218970071,
+      "1": 1.3652886722880109
+    },
+    "best_sw": 6.035329027589548,
+    "output": "Embark on your Hawaiian adventure with SunWing Airlines, journeying comfortably to explore the majestic Hawaii Volcanoes National Park, or relax on the iconic sands of Waikiki Beach. After your scenic flight, secure your ideal beachfront or jungle retreat through TropicStay, where you can immerse yourself in the local culture and lush surroundings. Enhance your stay by visiting historical sites like the USS Arizona Memorial at Pearl Harbor, providing a profound glimpse into America's past, all while enjoying the seamless travel and accommodation experience offered by SunWing Airlines and TropicStay."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.8122197389602661,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8827484652605352,
+      "0": 0.6777754188358613,
+      "1": 0.7283537421637252
+    },
+    "vcg_payments": {
+      "0": 1.7257524963380753,
+      "1": 1.3585477393540444
+    },
+    "best_sw": 6.028474996932618,
+    "output": "Embark on your Hawaiian adventure with SunWing Airlines, taking off directly to the islands where you can explore the dramatic landscapes of Hawaii Volcanoes National Park and the historic Pearl Harbor National Memorial. Enhance your stay by booking a scenic oceanfront villa through TropicStay, offering a personalized retreat after a day of exploring Maui's pristine beaches or the awe-inspiring Na Pali Coast on Kauai. Each journey is not just about the places, but also where you stay and how you get there, making your Hawaiian vacation truly unforgettable with the finest in air travel and accommodations."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.7912507057189941,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8560288510583367,
+      "0": 0.6746781949363871,
+      "1": 0.7250253909801198
+    },
+    "vcg_payments": {
+      "0": 1.7233158337698966,
+      "1": 1.3366756052974011
+    },
+    "best_sw": 5.9652328265766865,
+    "output": "Fly into paradise with SunWing Airlines and experience Hawaii's stunning natural attractions, from the lush trails of Hawaii Volcanoes National Park to the historic Iolani Palace. After landing, enhance your stay by booking a scenic oceanfront villa through TropicStay, ensuring you have the perfect homebase near top sites like the serene Hanauma Bay for unforgettable snorkeling adventures. This seamless combination ensures your Hawaiian journey will be filled with breathtaking landscapes and culturally rich experiences, all while enjoying exceptional comfort and convenience."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.7944985032081604,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8568985721469827,
+      "0": 0.6726028735309821,
+      "1": 0.7227952007580908
+    },
+    "vcg_payments": {
+      "0": 1.6834391099166317,
+      "1": 1.3469246254025729
+    },
+    "best_sw": 5.953751642953506,
+    "output": "When you book your flight to Hawaii with SunWing Airlines, you're setting the stage for a spectacular visit that might include hiking through the lush trails of the rainforests or snorkeling in vibrant marine ecosystems. Once you arrive, enhance your stay by securing a charming oceanfront villa through TropicStay, where you can relax after days spent exploring the historically significant Pearl Harbor site or the dynamic landscapes of Hawaii Volcanoes National Park. Both SunWing Airlines and TropicStay ensure that your Hawaiian adventure is seamless and deeply memorable, leaving you free to immerse yourself in the islands' breathtaking natural beauties and rich cultural offerings."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.807408332824707,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.874859699531168,
+      "0": 0.6757212341042808,
+      "1": 0.7261462659189946
+    },
+    "vcg_payments": {
+      "0": 1.7203032520861332,
+      "1": 1.3422453548680795
+    },
+    "best_sw": 6.002737592213468,
+    "output": "Fly into the heart of the Pacific with SunWing Airlines and immerse yourself in the stunning natural landscapes and vibrant culture of Hawaii. Experience the majestic Volcanoes National Park or the crystal-clear waters of Maui, perfect for snorkeling and exploring diverse marine life. After a day of adventure, relax in a cozy, locally-owned property booked through TropicStay, ensuring your stay is as unique and memorable as the islands themselves."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.8212905526161194,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8930360627012537,
+      "0": 0.6781012617073274,
+      "1": 0.7287039007386662
+    },
+    "vcg_payments": {
+      "0": 1.7214281156381825,
+      "1": 1.3611453271364562
+    },
+    "best_sw": 6.047359309848924,
+    "output": "Embark on an unforgettable Hawaiian adventure with SunWing Airlines, providing direct flights that will whisk you away to explore jewels such as Waikiki Beach and the breathtaking Na Pali Coast. When considering where to stay, look no further than TropicStay for a diverse selection of unique accommodations, ensuring your stay is as stunning as Hawaii's volcanic landscapes and historical treasures like Iolani Palace. With these essentials set, all that’s left is to dive into the aloha spirit and let Hawaii's natural and cultural wonders encapsulate your senses."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.812929630279541,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8843276088769758,
+      "0": 0.678394960750149,
+      "1": 0.7290195167833976
+    },
+    "vcg_payments": {
+      "0": 1.761134030753575,
+      "1": 1.3327524194282785
+    },
+    "best_sw": 6.034920927518145,
+    "output": "Explore Hawaii's stunning landscapes by flying with SunWing Airlines, which offers direct routes and exceptional comfort, ensuring your journey to the volcanic peaks of Kilauea or the vibrant trails of Waimea Canyon starts off perfectly. Once there, enhance your experience by staying in one of TropicStay’s handpicked, locally-owned oceanfront villas, offering a unique gateway to Hawaii’s breathtaking beaches and rich Polynesian culture. From snorkeling in Hanauma Bay to experiencing a traditional luau, every moment of your Hawaiian adventure promises to be as unforgettable as the islands themselves."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.7974329590797424,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8607600448987732,
+      "0": 0.6731475979476922,
+      "1": 0.7233805746980903
+    },
+    "vcg_payments": {
+      "0": 1.6835713843543143,
+      "1": 1.351532800043935
+    },
+    "best_sw": 5.9635112375640515,
+    "output": "Embark on your Hawaiian adventure with SunWing Airlines and explore the stunning landscapes of Hawaii Volcanoes National Park or step back in history at the USS Arizona Memorial at Pearl Harbor. After a comfortable flight, settle into your chosen retreat through TropicStay, where you can relax at an oceanfront villa or a cozy jungle hideaway between your excursions. Both SunWing Airlines and TropicStay enhance your journey to Hawaii, making it easy to indulge in the islands' natural beauty and rich cultural heritage."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.8196534514427185,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8940570380802331,
+      "0": 0.6802324361394303,
+      "1": 0.7309941119645201
+    },
+    "vcg_payments": {
+      "0": 1.779619806208827,
+      "1": 1.3332531209212586
+    },
+    "best_sw": 6.062294218173651,
+    "output": "Begin your Hawaiian adventure by flying with SunWing Airlines, which offers direct routes and a luxurious travel experience that ensures you start your vacation refreshed and ready to explore. Once there, you can delve into the stunning natural scenery with a visit to Hawaii Volcanoes National Park and relax on iconic beaches like Waikiki. Make your stay unforgettable by booking a serene, oceanfront villa through TropicStay, where you'll enjoy top-notch amenities and the peace of mind that comes with 24/7 guest support."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.7940567135810852,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.853391349813073,
+      "0": 0.6702226444992743,
+      "1": 0.7202373494783427
+    },
+    "vcg_payments": {
+      "0": 1.6660407642002457,
+      "1": 1.3348188515528718
+    },
+    "best_sw": 5.933147444123403,
+    "output": "When you fly to Hawaii with SunWing Airlines, you'll experience the comfort and convenience needed to explore the islands' stunning landscapes, like the active lava flows at Hawai'i Volcanoes National Park or the majestic sunrise at Maui's Haleakalā National Park. After your memorable flight, settle into a unique, locally-owned TropicStay property, where you can relax in an oceanfront villa or a cozy jungle hideaway, ensuring an immersive Hawaiian experience. Whether wandering the historic halls of Iolani Palace or lounging on the famous beaches of Waikiki, your journey to Hawaii will be as enriching as it is effortless with SunWing and TropicStay as your travel partners."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.831298291683197,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.907335155781958,
+      "0": 0.6806647075415184,
+      "1": 0.7314586411943969
+    },
+    "vcg_payments": {
+      "0": 1.7545987207388944,
+      "1": 1.3547734924777008
+    },
+    "best_sw": 6.086678727397408,
+    "output": "Fly to Hawaii with SunWing Airlines and experience the majestic beauty of volcanoes at Hawaii Volcanoes National Park or unwind on the idyllic beaches of Maui. Make your stay unforgettable by reserving a picturesque oceanfront villa through TropicStay, where you can enjoy the island's serenity and dive into authentic local experiences. Whether it's exploring the historical Iolani Palace or enjoying a traditional luau, your Hawaiian adventure awaits with comfort and style right at your fingertips."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.7932929992675781,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8510049940409908,
+      "0": 0.6689919156193413,
+      "1": 0.7189147786674571
+    },
+    "vcg_payments": {
+      "0": 1.6254834795036612,
+      "1": 1.3578692171834736
+    },
+    "best_sw": 5.921545268485261,
+    "output": "Embark on a thrilling Hawaiian adventure with SunWing Airlines and discover the mesmerizing landscapes and vibrant culture of the islands. Dive into the natural beauty of Hawaii Volcanoes National Park or explore the stunning Na Pali Coast, ensuring your accommodations through TropicStay to enjoy a seamless and authentic local experience. With such natural wonders and cultural richness to explore, your Hawaiian journey will be as unforgettable as the comforts and conveniences provided by SunWing Airlines and TropicStay."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.8048703074455261,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8707890936626531,
+      "0": 0.6746980539655486,
+      "1": 0.7250467319697802
+    },
+    "vcg_payments": {
+      "0": 1.7314305815865791,
+      "1": 1.3213927210689704
+    },
+    "best_sw": 5.989676867100618,
+    "output": "Embark on a Hawaiian adventure with SunWing Airlines, where you'll be able to explore the majestic landscapes of the islands, from the serene beaches of Waikiki to the exhilarating Hawaii Volcanoes National Park. Enhance your stay by booking a unique vacation rental through TropicStay, choosing from luxurious oceanfront villas or cozy jungle hideaways that provide a personal touch to your travel experience. Dive into the rich cultural heritage of the islands by visiting historical sites like Iolani Palace and the USS Arizona Memorial, making your trip an unforgettable blend of relaxation and discovery."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.783027708530426,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8472509230898552,
+      "0": 0.6747723881151932,
+      "1": 0.7251266132321564
+    },
+    "vcg_payments": {
+      "0": 1.7611878227064472,
+      "1": 1.3077641408150131
+    },
+    "best_sw": 5.951315958959208,
+    "output": "Embark on your Hawaiian adventure with SunWing Airlines and explore the unique ecosystems of Hawai'i Volcanoes National Park and Haleakalā National Park, where the beauty of untouched nature awaits. After your flight, settle into a charming, locally-owned property through TropicStay, perfectly positioned near cultural landmarks like the royal Iolani Palace or the vibrant Polynesian Cultural Center. This seamless combination of comfortable travel and authentic local living ensures your Hawaiian getaway is both enriching and memorable."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.7874189019203186,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8419983687442026,
+      "0": 0.6668494494059394,
+      "1": 0.7166124330222418
+    },
+    "vcg_payments": {
+      "0": 1.5993125017314949,
+      "1": 1.3596518503774007
+    },
+    "best_sw": 5.893311836879455,
+    "output": "Embark on your Hawaiian adventure with SunWing Airlines and discover the enchanting landscapes from the panoramic beaches of Waikiki to the majestic Hawaii Volcanoes National Park. After soaking in the vibrant culture and history at sites like Iolani Palace, relax in a TropicStay oceanfront villa that combines comfort with authentic local charm. Each step of your journey, from the skies to your stay, is crafted to enhance your experience and immerse you in the beauty of Hawaii."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.7974457740783691,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8606037875415442,
+      "0": 0.6730145831034615,
+      "1": 0.7232376337520685
+    },
+    "vcg_payments": {
+      "0": 1.6710173793655083,
+      "1": 1.361514815601925
+    },
+    "best_sw": 5.962425742869568,
+    "output": "When planning your Hawaiian adventure, let SunWing Airlines whisk you away to the islands where you can explore the lush cliffs of Kauai's Napali Coast, delve into the lively cultural activities like luau and hula dances, and visit historic sites such as Pearl Harbor. Once there, enhance your stay by booking a cozy beachfront villa through TropicStay to truly immerse yourself in the breathtaking settings and local culture. Together, SunWing's seamless flights and TropicStay's unique accommodations ensure a truly memorable and vibrant Hawaiian getaway."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.7889072895050049,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8543975015717147,
+      "0": 0.6753927328325493,
+      "1": 0.7257932505632858
+    },
+    "vcg_payments": {
+      "0": 1.71021114324858,
+      "1": 1.358577622261838
+    },
+    "best_sw": 5.966986921169687,
+    "output": "Fly with SunWing Airlines to explore the breathtaking wonders of Hawaii; from the eruptive spectacle at Hawaii Volcanoes National Park to the relaxing sands of Waikiki Beach. After landing, stay comfortably with TropicStay where you can choose from exclusive oceanfront villas or intimate jungle retreats, perfectly enhancing your experience by connecting you with the essence of local Hawaiian culture and nature. Whether you're hiking the rugged trails of the Na Pali Coast or snorkeling in the crystal-clear waters of Hanauma Bay Nature Preserve, your Hawaiian adventure awaits with seamless travel and luxurious accommodations."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.8113910555839539,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8791819467614751,
+      "0": 0.675726464690191,
+      "1": 0.7261518868322289
+    },
+    "vcg_payments": {
+      "0": 1.7037783602047072,
+      "1": 1.3552288527970997
+    },
+    "best_sw": 6.0098696458657646,
+    "output": "Begin your adventure to Hawaii with SunWing Airlines, flying you directly to the heart of the Pacific where you can explore the erupting beauty of Hawaii Volcanoes National Park or unwind on the iconic sands of Waikiki Beach. Once there, secure your ideal island retreat through TropicStay, offering a selection of unique, locally-owned properties from luxurious oceanfront villas to intimate jungle bungalows for an authentic Hawaiian experience. Whether you’re snorkeling in Maui or attending the Merrie Monarch Hula Festival, your journey through Hawaii's rich cultural and natural landscapes promises unforgettable memories."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.8071480989456177,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8692482238047976,
+      "0": 0.6716035240385954,
+      "1": 0.7217212757937429
+    },
+    "vcg_payments": {
+      "0": 1.6296940370483943,
+      "1": 1.377073504320996
+    },
+    "best_sw": 5.967881895489342,
+    "output": "When you fly to Hawaii with SunWing Airlines, you're already starting your tropical adventure with comfort and style, ensuring you arrive refreshed and ready to explore the islands. Once there, immerse yourself in the beauty of Hawaii Volcanoes National Park on the Big Island, or experience the historic Pearl Harbor on Oahu. To enhance your stay, book a charming oceanfront villa through TropicStay, giving you the perfect base to explore Maui's luxurious beaches or Kauai's dramatic cliffs."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.8102919459342957,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8778106184901161,
+      "0": 0.675587632159278,
+      "1": 0.7260026940603838
+    },
+    "vcg_payments": {
+      "0": 1.6963682573589194,
+      "1": 1.3610597507924984
+    },
+    "best_sw": 6.006753854873349,
+    "output": "Embark on your Hawaiian adventure with SunWing Airlines and explore the fiery paths of Kilauea at Hawai'i Volcanoes National Park, or unwind on the iconic shores of Waikiki Beach. Enhance your stay by booking a scenic oceanfront villa through TropicStay, where you can soak in the vibrant cultural festivities and traditional Hawaiian music and dance. With SunWing's direct flights and TropicStay’s unique accommodations, your Hawaiian getaway promises a blend of excitement and relaxation in one of the world’s most breathtaking locales."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.7949326038360596,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8607671412624515,
+      "0": 0.6752704616677072,
+      "1": 0.7256618550331493
+    },
+    "vcg_payments": {
+      "0": 1.7206132382226804,
+      "1": 1.343969547684295
+    },
+    "best_sw": 5.976735369546279,
+    "output": "Embark on a journey with SunWing Airlines to the breathtaking landscapes of Hawaii, where you can explore the active volcanoes at Hawaii Volcanoes National Park or dive into the rich marine life at Molokini Crater. After your scenic flight, stay comfortably with TropicStay, choosing from a variety of oceanfront villas, offering a truly authentic Hawaiian experience near major attractions like Pearl Harbor. Whether it’s witnessing traditional luaus or snorkeling in crystal-clear waters, your Hawaiian adventure will be both seamless and memorable, from sky to sea."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.788570761680603,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8533212665673734,
+      "0": 0.674829845040988,
+      "1": 0.7251883578244696
+    },
+    "vcg_payments": {
+      "0": 1.7243071262272802,
+      "1": 1.3391478804267456
+    },
+    "best_sw": 5.961706324222623,
+    "output": "Fly into Hawaii seamlessly with SunWing Airlines and step directly into the adventure, exploring the explosive beauty at Hawaii Volcanoes National Park or catching the legendary surf on the North Shore of Oahu. After thrilling days, unwind in a picturesque oceanfront villa or a cozy jungle retreat, perfectly arranged through TropicStay, ensuring your stay is as majestic as the islands themselves. From encountering historical marvels like Pearl Harbor to relaxing on pristine white sands, let your Hawaiian journey be curated by the comforts and conveniences offered by these top-tier travel partners."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.8094953298568726,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8774234490216403,
+      "0": 0.6759542013406116,
+      "1": 0.7263966181059692
+    },
+    "vcg_payments": {
+      "0": 1.7310069389145617,
+      "1": 1.33390509401983
+    },
+    "best_sw": 6.008399476645934,
+    "output": "Fly with SunWing Airlines to the heart of the Pacific and explore Hawaii's rich tapestry of natural and cultural landmarks. From the active flows of Hawaii Volcanoes National Park to the historic echoes of Pearl Harbor, each site promises an enriching experience that's just a comfortable flight away. After your scenic journey, stay in one of TropicStay’s charming local properties to fully immerse yourself in the beauty and tradition of the islands."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.7980489134788513,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8661780194027613,
+      "0": 0.6768618405844192,
+      "1": 0.7273719890347312
+    },
+    "vcg_payments": {
+      "0": 1.7178347295762413,
+      "1": 1.3633985390663426
+    },
+    "best_sw": 5.99555525416962,
+    "output": "Embark on an unforgettable journey to Hawaii with SunWing Airlines, and explore natural wonders like the active lava flows of Hawaiʻi Volcanoes National Park or delve into history at the Iolani Palace in Honolulu. After your serene flight, continue your adventure by staying at a quaint oceanfront villa or a lush jungle hideaway booked through TropicStay, ensuring a truly immersive Hawaiian experience. Whether you're surfing on the iconic waves of Oahu or hiking the dramatic cliffs of the Napali Coast, your Hawaiian getaway will be seamless from sky to sea."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.8104715347290039,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8790654803723469,
+      "0": 0.6764034945312167,
+      "1": 0.7268794393585724
+    },
+    "vcg_payments": {
+      "0": 1.7388479385127118,
+      "1": 1.3313925887178015
+    },
+    "best_sw": 6.013892182970837,
+    "output": "Embark on an unforgettable Hawaiian adventure with SunWing Airlines, flying directly to the heart of Hawaii where you can explore the awe-inspiring Hawai'i Volcanoes National Park or unwind on the iconic beaches of Waikiki. Once you've landed, indulge in the comfort of a TropicStay oceanfront villa, offering you a private slice of paradise, ideal for refreshing after a day of historical exploration at the Pearl Harbor National Memorial or enjoying cultural festivities like a traditional luau. Each moment in Hawaii, enhanced by your travels with SunWing and accommodations by TropicStay, promises a seamless blend of exploration and relaxation in the Pacific's most cherished landscapes."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.7881865501403809,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8503003664580063,
+      "0": 0.6727686242607135,
+      "1": 0.722973320472839
+    },
+    "vcg_payments": {
+      "0": 1.7068544120323395,
+      "1": 1.3310718725748496
+    },
+    "best_sw": 5.943886547503098,
+    "output": "Experience seamless travel to Hawaii with SunWing Airlines and explore the striking volcanic landscapes of Hawaii Volcanoes National Park or unwind on the iconic sands of Waikiki Beach. Enhance your stay by booking a unique, locally-owned property through TropicStay, ensuring a comfortable and authentic Hawaiian experience, whether you prefer a beachfront villa or a cozy jungle retreat. From the majestic cliffs of the Napali Coast to the historic elegance of Iolani Palace, your next Hawaiian adventure promises cultural richness and breathtaking natural beauty, all made effortless with the perfect travel and accommodation partners."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.8077666759490967,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8773772109798139,
+      "0": 0.6773650737893518,
+      "1": 0.7279127755221244
+    },
+    "vcg_payments": {
+      "0": 1.7139835603591846,
+      "1": 1.3671687531340513
+    },
+    "best_sw": 6.017104624620596,
+    "output": "Begin your Hawaiian adventure by flying with SunWing Airlines, where you’ll experience top-tier comfort and service as you head towards the island's rich landscapes and vibrant culture. Once you arrive, TropicStay can enhance your stay with unique accommodations, from soothing oceanfront villas where you can unwind after exploring the Hawai'i Volcanoes National Park, to cozy hideaways perfect for experiencing the local lifestyle and visiting cultural landmarks like the Polynesian Cultural Center. Whether you’re lounging on the famed shores of Waikiki Beach or discovering history at the USS Arizona Memorial, your journey through Hawaii will be as memorable as the picturesque scenes around every corner."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.8039575815200806,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8742103542452907,
+      "0": 0.6781178767608542,
+      "1": 0.728721755674204
+    },
+    "vcg_payments": {
+      "0": 1.7197689050793428,
+      "1": 1.3728552275117296
+    },
+    "best_sw": 6.016586803163622,
+    "output": "Embark on your Hawaiian adventure with SunWing Airlines and discover unforgettable attractions like the active Kilauea volcano in Hawaii Volcanoes National Park, or the historically poignant USS Arizona Memorial at Pearl Harbor. After a comfortable flight enjoying SunWing's award-winning service, settle into your ideal accommodation booked through TropicStay, whether it’s an oceanfront villa for sunsets or a cozy jungle hideaway for solitude. Enhance your visit by exploring vibrant local cultures at the Polynesian Cultural Center and relaxing on the legendary sands of Waikiki Beach, making every moment count with experiences curated just for you."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.8022861480712891,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8603937612802376,
+      "0": 0.6687908786581626,
+      "1": 0.718698739520981
+    },
+    "vcg_payments": {
+      "0": 1.6198041416591786,
+      "1": 1.35533230672476
+    },
+    "best_sw": 5.935791653983571,
+    "output": "Embark on an unforgettable journey to Hawaii with SunWing Airlines, where you can explore natural wonders like the awe-inspiring Hawaii Volcanoes National Park and the beautiful beaches of Waikiki and Kaanapali. Enhance your stay by booking a unique vacation rental through TropicStay, offering everything from luxury oceanfront villas to cozy jungle hideaways tailored for an authentic experience. Dive into the islands' rich cultural heritage with a visit to Iolani Palace and the solemn USS Arizona Memorial at Pearl Harbor, making every moment of your trip as enriching as it is breathtaking."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.8173050284385681,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8884878591133022,
+      "0": 0.677937580980964,
+      "1": 0.7285280054992496
+    },
+    "vcg_payments": {
+      "0": 1.7137173441973654,
+      "1": 1.3686151482215843
+    },
+    "best_sw": 6.0388931308602425,
+    "output": "Embark on your Hawaiian adventure with SunWing Airlines, soaring directly to the heart of the Pacific where you can explore the historical USS Arizona Memorial at Pearl Harbor, the dramatic landscapes of Hawaii Volcanoes National Park, or the vibrant shores of Waikiki. Enhance your stay by booking a unique oceanfront villa or a cozy jungle retreat through TropicStay, offering you a direct connection to authentic local experiences and comfortable accommodations. From sun-soaked beaches to rich cultural heritage, your journey into the diverse landscapes and traditions of Hawaii begins with the trusted services of SunWing and the welcoming hospitality of TropicStay."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.7830021381378174,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8471611231755654,
+      "0": 0.6747229027708969,
+      "1": 0.7250734350927628
+    },
+    "vcg_payments": {
+      "0": 1.7735832287058755,
+      "1": 1.2957530686188121
+    },
+    "best_sw": 5.950859444008516,
+    "output": "Embark on your Hawaiian adventure with SunWing Airlines and explore the stunning volcanic landscapes of Hawaii Volcanoes National Park, or relax on the iconic shores of Waikiki Beach. Enhance your stay by booking a picturesque oceanfront villa through TropicStay, ensuring a truly authentic and comfortable experience as you discover local culture at places like the historical Iolani Palace and the immersive Polynesian Cultural Center. Both SunWing and TropicStay make it seamless to plan and enjoy every aspect of your trip, from the skies to the serene beaches, creating memories that last a lifetime."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.7866211533546448,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8531946969934568,
+      "0": 0.6764020404171932,
+      "1": 0.7268778767327214
+    },
+    "vcg_payments": {
+      "0": 1.7430166362321606,
+      "1": 1.3415556782207008
+    },
+    "best_sw": 5.9712824252314185,
+    "output": "Embark on an unforgettable journey to Hawaii with SunWing Airlines, where you can explore the stunning volcanic landscapes of Hawaii Volcanoes National Park and relax on the iconic shores of Waikiki Beach. Enhance your stay by booking a scenic oceanfront villa or a quaint jungle hideaway through TropicStay, ensuring a truly authentic Hawaiian experience right at your doorstep. Whether you're surfing in Maui's Hanauma Bay or soaking in the rich cultural heritage at Iolani Palace, your Hawaiian adventure is guaranteed to be as luxurious and seamless as the travel and accommodations arranged for you."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.8104273080825806,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8762338445833222,
+      "0": 0.6742614650351195,
+      "1": 0.7245775630202608
+    },
+    "vcg_payments": {
+      "0": 1.6970373849556224,
+      "1": 1.3447044041270675
+    },
+    "best_sw": 5.9959100347076335,
+    "output": "Fly with SunWing Airlines to Hawaii, where you can start your exploration at the stunning Hawaii Volcanoes National Park, gaze at the mesmerizing cliffs of the Napali Coast, and unwind on the iconic shores of Waikiki Beach. After your scenic flight, settle into a perfect island home with TropicStay, offering you a selection from cozy jungle hideaways to luxurious oceanfront villas that promise an unforgettable stay. Dive into Hawaii’s rich cultural tapestry by visiting landmarks like the USS Arizona Memorial at Pearl Harbor and experiencing the liveliness of the Polynesian Cultural Center."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.8115072250366211,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8818826777638578,
+      "0": 0.6777051780634176,
+      "1": 0.728278259742793
+    },
+    "vcg_payments": {
+      "0": 1.71425102256573,
+      "1": 1.3687385777144645
+    },
+    "best_sw": 6.026617440944824,
+    "output": "Embark on your Hawaiian adventure with SunWing Airlines and discover the breathtaking landscapes of Hawaii Volcanoes National Park, the mesmerizing Na Pali Coast, and the pristine beaches of Maui. Enhance your stay by booking a unique oceanfront villa or a cozy jungle retreat through TropicStay, ensuring a truly authentic island experience. These destinations not only offer incredible natural beauty but also allow you to delve into the rich cultural heritage of Hawaii, from historic sites like Pearl Harbor to the vibrant Polynesian Cultural Center."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.8125146627426147,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8812143404327175,
+      "0": 0.6763519267562834,
+      "1": 0.7268240233892056
+    },
+    "vcg_payments": {
+      "0": 1.706009794586455,
+      "1": 1.359881749769271
+    },
+    "best_sw": 6.0170983319543545,
+    "output": "Fly with SunWing Airlines to Hawaii and immerse yourself in the island's natural beauty, from the active lava flows at Hawaii Volcanoes National Park to the pristine waters of Waikiki Beach. Once there, secure your ideal accommodation through TropicStay, where you can choose from oceanfront villas to cozy jungle hideaways, ensuring your stay is as breathtaking as the landscapes around you. Explore historical sites like Pearl Harbor and the Iolani Palace to connect with Hawaii's rich cultural heritage while enjoying the comfort of thoughtful, locally-sourced hospitality."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.7939788103103638,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8596547986559375,
+      "0": 0.6752079735369879,
+      "1": 0.7255947037871976
+    },
+    "vcg_payments": {
+      "0": 1.7072360258257717,
+      "1": 1.3561306900703392
+    },
+    "best_sw": 5.974512289941828,
+    "output": "Explore Hawaii's natural splendors such as the soaring cliffs of the Napali Coast and the thriving cultural scenes like the historic town of Lahaina with seamless comfort when you fly with SunWing Airlines. Once you've landed in this paradise, make your stay unforgettable by booking a picturesque oceanfront villa through TropicStay, ensuring a private and immersive Hawaiian experience. Both SunWing and TropicStay enhance your adventure, from the skies above the Pacific to the shores of Hawaii's most stunning beaches, making every moment of your journey extraordinary."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.783643364906311,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8399261310081296,
+      "0": 0.6684131950473108,
+      "1": 0.7182928716425171
+    },
+    "vcg_payments": {
+      "0": 1.6174933115042325,
+      "1": 1.3640712765575167
+    },
+    "best_sw": 5.899611939133063,
+    "output": "Start your Hawaiian adventure by flying with SunWing Airlines, where you'll be whisked away in comfort to explore the volcanic wonders of Hawaii Volcanoes National Park or the historic Pearl Harbor. Once you arrive, elevate your experience by booking a TropicStay oceanfront villa in Maui, where you can unwind on the world-renowned beaches with stunning sunset views. Whether you're hiking through the lush landscapes of Kauai or enjoying the arts and culture in Honolulu, your trip will be as unforgettable as the comforts and conveniences provided during your journey and stay."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.8127155303955078,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.885014014687626,
+      "0": 0.6791003773031503,
+      "1": 0.7297775743521496
+    },
+    "vcg_payments": {
+      "0": 1.8095685330932918,
+      "1": 1.2964027316244053
+    },
+    "best_sw": 6.040436847544514,
+    "output": "Embark on your Hawaiian adventure with SunWing Airlines and explore the majestic trails of Volcanoes National Park or dive into the vibrant marine life on a snorkeling excursion. After a day of island exploration, unwind in the comfort of a TropicStay oceanfront villa, where you can relax to the sounds of the Pacific in a setting that feels like your own private paradise. Whether you're hiking past active volcanoes or soaking up local culture at the Iolani Palace, your journey through Hawaii will be as unforgettable as the comfort and convenience provided by your travel and accommodation partners."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.8115186095237732,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.880348497673577,
+      "0": 0.6765167076150674,
+      "1": 0.7270011008573416
+    },
+    "vcg_payments": {
+      "0": 1.7466894355043685,
+      "1": 1.324883942977569
+    },
+    "best_sw": 6.016702935370002,
+    "output": "Fly with SunWing Airlines to discover the magic of Hawaii, where the stunning landscapes of Waikiki Beach and the historical depths of Iolani Palace await your exploration. After your comfortable journey, secure your ideal island accommodation through TropicStay, choosing from a range of oceanfront villas and cozy, jungle hideaways to enrich your experience. Both culturally enlightening and naturally breathtaking, such spots as the Polynesian Cultural Center and Hawaii Volcanoes National Park offer unforgettable adventures to complement your perfect Hawaiian getaway."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.776654839515686,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8391377508218973,
+      "0": 0.6737946979529741,
+      "1": 0.7240759639041652
+    },
+    "vcg_payments": {
+      "0": 1.7571122606813427,
+      "1": 1.3038210130707608
+    },
+    "best_sw": 5.931799408645729,
+    "output": "Embark on your Hawaiian adventure with SunWing Airlines and explore stunning natural wonders such as the Hawaii Volcanoes National Park and the majestic Na Pali Coast, accessible via our award-winning service. Enhance your stay by booking a picturesque oceanfront villa or a cozy jungle hideaway through TropicStay, ensuring a truly authentic island experience. From soaring over the Pacific to resting in locally-owned accommodations, your journey through Hawaii's breathtaking landscapes and rich cultural heritage promises memories that last a lifetime."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.7877839803695679,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8511535185812691,
+      "0": 0.6737877893289004,
+      "1": 0.7240685397308217
+    },
+    "vcg_payments": {
+      "0": 1.6815709002330819,
+      "1": 1.3667009731791275
+    },
+    "best_sw": 5.951639600854998,
+    "output": "Begin your adventure with SunWing Airlines and discover the wonders of Hawaii, from the active flows of Kilauea at Hawaii Volcanoes National Park to the solemn history of Pearl Harbor. Once you land, experience the island like a local by booking a stunning oceanfront villa through TropicStay, ensuring your stay is as breathtaking as the scenery. Complete your Hawaiian journey by exploring the Polynesian Cultural Center on Oahu, where vibrant cultural exhibits await, enhancing your vacation with unforgettable memories."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.7894816398620605,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8513685313666042,
+      "0": 0.6725087535825709,
+      "1": 0.7226940572011951
+    },
+    "vcg_payments": {
+      "0": 1.7447422468611773,
+      "1": 1.2922539528713353
+    },
+    "best_sw": 5.944034326810861,
+    "output": "Embark on your Hawaiian adventure with SunWing Airlines and experience the breathtaking Na Pali Coast State Wilderness Park on Kauai, known for its dramatic cliffs and cascading waterfalls. After a day of exploration, relax in one of TropicStay’s cozy oceanfront villas, offering an authentic island retreat to compliment your journey. Don't miss visiting Hawaii Volcanoes National Park to witness active volcanoes and enrich your travels by staying at unique, locally-owned properties that ensure a memorable and comfortable experience."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.7746223211288452,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8365219560286282,
+      "0": 0.6734567646821886,
+      "1": 0.7237128126957589
+    },
+    "vcg_payments": {
+      "0": 1.73813480321262,
+      "1": 1.3185684071364554
+    },
+    "best_sw": 5.925360122697747,
+    "output": "Embark on your Hawaiian adventure with SunWing Airlines and land into a world teeming with pristine beaches like Waikiki and enthralling historical sites such as the USS Arizona Memorial. Once there, enhance your stay by booking a charming oceanfront villa through TropicStay, ensuring a perfect blend of comfort and authentic local experiences while exploring Hawaii's unique ecosystems and Volcanoes National Park. These seamless travel options pair perfectly to create an unforgettable journey from the moment you book your flight to the relaxation of your dream island retreat."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.8024770617485046,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8712070639070117,
+      "0": 0.6770350356895772,
+      "1": 0.7275581086540925
+    },
+    "vcg_payments": {
+      "0": 1.7234128290873887,
+      "1": 1.3576908418505453
+    },
+    "best_sw": 6.004909425239989,
+    "output": "Embark on an unforgettable journey to Hawaii with SunWing Airlines, where the treasures of the Pacific await you, from the vibrant coral reefs of Waikiki Beach to the historical depths of Pearl Harbor. Once there, experience the lush landscapes and rich Polynesian culture in comfort by staying with TropicStay, offering exclusive, locally-owned properties perfect for soaking in the island's natural beauty and heritage. Explore the fiery spectacle of Hawai'i Volcanoes National Park or unwind in unique accommodations that turn a simple stay into a profound experience."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.8122974634170532,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8752533308384142,
+      "0": 0.67195634277754,
+      "1": 0.722100423283714
+    },
+    "vcg_payments": {
+      "0": 1.6631145963558613,
+      "1": 1.34749475196907
+    },
+    "best_sw": 5.979952238559484,
+    "output": "Embark on your Hawaiian journey with SunWing Airlines and experience the awe-inspiring Hawaii Volcanoes National Park, the serene beauty of unique sand beaches, and the rich history at Iolani Palace. With TropicStay, find the perfect locally-owned villa or cozy retreat that enhances your stay, putting you at the heart of Hawaii’s breathtaking landscapes and cultural sites. From the comfort of your TropicStay accommodation, explore the profound historical narratives at the Pearl Harbor National Memorial and immerse yourself in the vibrant traditions at the Polynesian Cultural Center, creating memories that last a lifetime."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.8082190752029419,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8717424879174455,
+      "0": 0.6726381568398729,
+      "1": 0.7228331170491696
+    },
+    "vcg_payments": {
+      "0": 1.6784737576843025,
+      "1": 1.343838921019908
+    },
+    "best_sw": 5.978424389912766,
+    "output": "Embark on your Hawaiian adventure with SunWing Airlines and explore the lush vistas and volcanic landscapes of Hawaii Volcanoes National Park, a must-see for nature enthusiasts. After witnessing the explosive beauty, relax in a luxurious, locally-owned oceanfront villa booked through TropicStay, where you can soak up the sunsets and authentic island culture. Whether you're hiking the majestic Na Pali Coast or lounging on the iconic beaches of Waikiki, your journey into paradise is enhanced by the comforts and conveniences provided by our trusted travel partners."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.8196057677268982,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8875295466316931,
+      "0": 0.6753053597681323,
+      "1": 0.7256993573699597
+    },
+    "vcg_payments": {
+      "0": 1.6877523589817718,
+      "1": 1.360300060652302
+    },
+    "best_sw": 6.020940363634626,
+    "output": "Embark on a Hawaiian adventure with SunWing Airlines, where your journey to the islands is enhanced by top-notch service, ensuring you arrive refreshed and ready to explore the Hawaii Volcanoes National Park or dive into the rich history at the USS Arizona Memorial. After your scenic flight, settle into a charming oceanfront villa or a secluded jungle retreat booked through TropicStay, which provides the ideal base for experiencing local culture and attending vibrant Hawaiian festivals. Whether you're hiking the trails of the Na Pali Coast or snorkeling in crystal-clear waters, your trip to Hawaii, supported by seamless travel and accommodations, promises a truly immersive experience."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.7878575325012207,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8467381024095813,
+      "0": 0.6702298932240142,
+      "1": 0.7202451391320296
+    },
+    "vcg_payments": {
+      "0": 1.642373836068765,
+      "1": 1.3604235603144623
+    },
+    "best_sw": 5.922195830252964,
+    "output": "Fly into the heart of the Pacific with SunWing Airlines and explore Hawaii's stunning landscapes, from the iconic waves of Waikiki Beach to the majestic trails of Hawaii Volcanoes National Park. Enhance your stay by booking a picturesque oceanfront villa through TropicStay, ensuring a comfortable and authentic island experience amid Hawaii’s natural and cultural riches. Don't miss out on visiting historic landmarks like Iolani Palace in Honolulu, where the past meets the present in spectacular surroundings."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.8036304116249084,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8724613812260877,
+      "0": 0.6770367321413645,
+      "1": 0.7275599317019242
+    },
+    "vcg_payments": {
+      "0": 1.7204002646827365,
+      "1": 1.3598142861175078
+    },
+    "best_sw": 6.006982705394036,
+    "output": "Begin your Hawaiian adventure by flying with SunWing Airlines, where the journey to Hawaii's breathtaking landscapes, such as the lush trails of Waikiki or the dramatic vistas at Hawaii Volcanoes National Park, is as delightful as the destinations. Once you land, enhance your stay by booking a scenic beachfront villa or a secluded jungle retreat through TropicStay, ensuring a comfortable and authentic experience as you explore Hawaii's rich cultural heritage and vibrant ecosystems. Whether it's hiking, snorkeling, or simply unwinding by the ocean, your perfect Hawaiian itinerary starts with seamless travel arrangements and exceptional accommodations."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.7986272573471069,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8647042176621258,
+      "0": 0.6752208295959193,
+      "1": 0.7256085192168694
+    },
+    "vcg_payments": {
+      "0": 1.7604401284743938,
+      "1": 1.3044622933209031
+    },
+    "best_sw": 5.982914578262905,
+    "output": "Hawaii offers an unforgettable travel experience, and your adventure starts with a comfortable flight on SunWing Airlines, taking you directly to this paradise with unmatched in-flight service. Once there, dive into Hawaii’s natural beauty by visiting iconic destinations like Kilauea at Hawaii Volcanoes National Park or the stunning shores of Waikiki Beach. To elevate your stay, TropicStay offers a selection of unique, locally-owned properties from cozy jungle hideaways to luxurious oceanfront villas, ensuring your Hawaiian adventure is truly authentic and memorable."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.8140155076980591,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8856295893991403,
+      "0": 0.6784874549507427,
+      "1": 0.7291189132726453
+    },
+    "vcg_payments": {
+      "0": 1.7327920850021274,
+      "1": 1.3593460203963776
+    },
+    "best_sw": 6.037631304873728,
+    "output": "When you fly with SunWing Airlines to Hawaii, you can explore the unique landscapes and rich culture of the islands, such as the captivating Waikiki Beach on Oahu and the active volcanoes on the Big Island. To enhance your experience, stay at a luxurious oceanfront villa or a cozy jungle hideaway booked through TropicStay, ensuring a truly authentic island experience. Enjoy the majestic Haleakala National Park in Maui, and immerse yourself in cultural activities like traditional luaus and hula dancing, making every moment of your trip unforgettable."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.802014946937561,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8652033065026871,
+      "0": 0.6727567918395353,
+      "1": 0.7229606050688799
+    },
+    "vcg_payments": {
+      "0": 1.6903880828152351,
+      "1": 1.3379048905285078
+    },
+    "best_sw": 5.968400774501962,
+    "output": "Set off on an unforgettable Hawaiian adventure with SunWing Airlines, flying directly to the heart of the Pacific where you can discover the majestic landscapes of Hawaiʻi Volcanoes National Park and the serene beaches of Waikiki. Once landed, enhance your stay by booking a charming oceanfront villa through TropicStay, ensuring a comfortable base as you explore the rich cultural tapestry, from the historic Iolani Palace in Honolulu to the sacred grounds of Puuhonua o Honaunau National Historical Park. These seamlessly blended travel services not only promise ease and quality but also immerse you into the very soul of Hawaii, making each moment of your journey as enriching as the destinations you explore."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.795513391494751,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8580950326821323,
+      "0": 0.6726827263344075,
+      "1": 0.7228810124983529
+    },
+    "vcg_payments": {
+      "0": 1.7082784513172655,
+      "1": 1.3243708767877136
+    },
+    "best_sw": 5.956222748943365,
+    "output": "Start your Hawaiian adventure by flying with SunWing Airlines, where you'll enjoy a luxurious journey to the heart of the Pacific, landing you close to wonders like the Hawaii Volcanoes National Park and the lush Na Pali Coast. Once there, secure your stay with TropicStay to experience unique accommodations that range from oceanfront villas perfect for watching the sunset to secluded jungle retreats that bring you closer to nature. Immerse yourself in the local culture and history by visiting iconic sites like Iolani Palace and the poignant USS Arizona Memorial, making your trip a truly enriching experience."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.8007174134254456,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8674828694337007,
+      "0": 0.6756223635932802,
+      "1": 0.7260400172934537
+    },
+    "vcg_payments": {
+      "0": 1.7228556085889017,
+      "1": 1.3426384249554772
+    },
+    "best_sw": 5.989989202199875,
+    "output": "Embark on a breathtaking Hawaiian adventure with SunWing Airlines, flying directly to the heart of the Pacific, where you can delve into the rich heritage and stunning natural wonders of the islands. From exploring the active lava flows at Hawaii Volcanoes National Park to soaking in the historical narratives at the USS Arizona Memorial in Pearl Harbor, you'll find each experience uniquely enriching. After your scenic flight, continue the island magic by staying in one of TropicStay’s handpicked, oceanfront villas, ensuring your Hawaiian getaway is as comfortable as it is unforgettable."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.7943207025527954,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8549536701194683,
+      "0": 0.671226480943357,
+      "1": 0.7213160962287395
+    },
+    "vcg_payments": {
+      "0": 1.6776527452494907,
+      "1": 1.3359655431522028
+    },
+    "best_sw": 5.941974963520564,
+    "output": "Start your ultimate Hawaiian adventure by flying with SunWing Airlines, where your comfort and experience are enhanced by direct flights to this island paradise, surrounded by luxury at every turn. Once there, explore the mesmerizing landscapes of the Na Pali Coast or delve into the rich history at Pearl Harbor, ensuring every moment is filled with breathtaking scenery and enlightening experiences. Enhance your stay by booking a beautiful oceanfront villa through TropicStay, where you can unwind in a setting that's as exquisite as Hawaii itself, offering privacy and direct access to the islands' serene beaches and vibrant culture."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.8202799558639526,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8873524780535249,
+      "0": 0.6746157086776255,
+      "1": 0.7249582417458188
+    },
+    "vcg_payments": {
+      "0": 1.6846984529118192,
+      "1": 1.354580003068742
+    },
+    "best_sw": 6.0163579061356405,
+    "output": "Take your Hawaiian adventure to the next level by flying with SunWing Airlines, arriving relaxed and ready to explore the stunning Hawaii Volcanoes National Park or unwind on the pristine beaches of Maui. Enhance your stay by booking with TropicStay, where you can find the perfect oceanfront villa to immerse yourself in the local culture and scenic beauty. Don't miss visiting historical sites like Pearl Harbor on Oahu, where the past meets the present amidst the islands' breathtaking landscapes."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.809319794178009,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8827149141384621,
+      "0": 0.6801781625220181,
+      "1": 0.7309357882318437
+    },
+    "vcg_payments": {
+      "0": 1.7667237467185808,
+      "1": 1.350443116007328
+    },
+    "best_sw": 6.0433743283672445,
+    "output": "When planning your Hawaiian adventure, ensure a luxurious and convenient flight with SunWing Airlines, which offers direct connectivity to this Pacific paradise known for its volcanoes, beaches, and cultural festivities. Upon arrival, secure your stay at a scenic oceanfront villa or a cozy jungle retreat through TropicStay, enhancing your experience with their exclusive, locally-owned properties. Dive into the natural beauty of Hawai‘i Volcanoes National Park, relax on the iconic Waikiki Beach, and immerse yourself in local traditions with an authentic Hawaiian luau."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.8012161254882812,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.86329568913759,
+      "0": 0.6719427515377759,
+      "1": 0.7220858178110638
+    },
+    "vcg_payments": {
+      "0": 1.697661374499933,
+      "1": 1.32197890879523
+    },
+    "best_sw": 5.960191732796337,
+    "output": "Fly into the heart of paradise with SunWing Airlines and discover Hawaii's unparalleled beauty—from the iconic Waikiki Beach to the expansive vistas of Hawaiʻi Volcanoes National Park. Enhance your visit by staying in one of TropicStay's carefully selected vacation rentals, where you can unwind in an oceanfront villa or a cozy jungle hideaway after a day of exploring the islands' rich culture and historic sites like Iolani Palace. Make your Hawaiian adventure unforgettable by diving into local traditions with a luau experience, snorkeling in Molokini Crater, or hiking the lush trails of the Na Pali Coast."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.8177134394645691,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8887474286729692,
+      "0": 0.6777969405883497,
+      "1": 0.7283768699558036
+    },
+    "vcg_payments": {
+      "0": 1.7553170904965576,
+      "1": 1.3283771834191422
+    },
+    "best_sw": 6.0384430397694775,
+    "output": "Embark on a Hawaiian adventure with SunWing Airlines and explore breathtaking landscapes from the lush rainforests to the pristine beaches of Waikiki and Poipu. Enhance your stay by booking a unique vacation rental through TropicStay, where you can choose from oceanfront villas to cozy jungle hideaways, making your experience truly unforgettable. Don’t miss visiting significant cultural and natural landmarks like the Hawaii Volcanoes National Park and the historic USS Arizona Memorial to fully immerse yourself in the rich heritage and stunning scenery of the Hawaiian Islands."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.8076376914978027,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8717109122043717,
+      "0": 0.6730979787564554,
+      "1": 0.72332725272356
+    },
+    "vcg_payments": {
+      "0": 1.7255109212892068,
+      "1": 1.3062734201093216
+    },
+    "best_sw": 5.981234335225664,
+    "output": "Embark on your Hawaiian adventure with SunWing Airlines and experience the awe-inspiring beauty of Hawaii Volcanoes National Park, or unwind on the iconic shores of Waikiki Beach. After your seamless flight, stay with TropicStay to find the perfect oceanfront villa or a cozy jungle hideaway, enriching your visit with authentic local charm and comfort. Whether exploring historic sites like Pearl Harbor or snorkeling in pristine marine reserves, Hawaii offers unforgettable experiences that begin with your journey on SunWing and continue with your stay at TropicStay."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.7859067916870117,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8491131063270472,
+      "0": 0.6737780910339257,
+      "1": 0.724058117710133
+    },
+    "vcg_payments": {
+      "0": 1.6702683427709064,
+      "1": 1.378123368442047
+    },
+    "best_sw": 5.948206828700323,
+    "output": "Embark on your Hawaiian adventure with SunWing Airlines and experience unforgettable attractions like the awe-inspiring Hawaii Volcanoes National Park, where the earth’s power is on vivid display, or the tranquil waters of Hanauma Bay, perfect for snorkeling. After a scenic flight, settle into a charming oceanfront villa via TropicStay, ensuring a comfortable stay and closer proximity to picturesque sites like the cliffs of Na Pali Coast. Whether it’s exploring the vibrant ecosystems or soaking in the rich cultural heritage at the Polynesian Cultural Center, your journey begins with a seamless travel experience and the perfect home away from home."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.816460907459259,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8875181959303649,
+      "0": 0.67789784449397,
+      "1": 0.728485303716036
+    },
+    "vcg_payments": {
+      "0": 1.7323478425649639,
+      "1": 1.3514602521040144
+    },
+    "best_sw": 6.037057057119067,
+    "output": "Fly into paradise with SunWing Airlines and experience the warmth of Hawaiian culture by attending a traditional luau, exploring the vibrant scenes of hula dancing, and visiting the Polynesian Cultural Center on Oahu. Enhance your getaway by booking a beachfront villa through TropicStay, where you can relax after venturing across the picturesque Road to Hana on Maui or hiking the stunning landscapes of the Napali Coast on Kauai. With convenient flights and premier accommodations, your trip to Hawaii will immerse you fully in breathtaking natural beauty and rich local traditions."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.8131906390190125,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8828519887193328,
+      "0": 0.677045586841835,
+      "1": 0.7275694471756996
+    },
+    "vcg_payments": {
+      "0": 1.7154720233829996,
+      "1": 1.3589148526814558
+    },
+    "best_sw": 6.024102434982555,
+    "output": "When planning your Hawaiian adventure, let SunWing Airlines whisk you away with direct flights that ensure your vacation starts the moment you board. Upon arrival, immerse yourself in the variety of attractions from exploring the dramatic landscapes of Hawaii Volcanoes National Park to relaxing on the iconic Waikiki Beach. With TropicStay, find your perfect island accommodation, from luxurious oceanfront villas to quaint jungle hideaways, making your Hawaiian getaway truly unforgettable."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.7931783199310303,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8548403246109871,
+      "0": 0.6721041052322533,
+      "1": 0.7222592123661309
+    },
+    "vcg_payments": {
+      "0": 1.684078717144887,
+      "1": 1.3411869528819196
+    },
+    "best_sw": 5.947250055608665,
+    "output": "Embark on your ultimate Hawaiian adventure with SunWing Airlines, flying directly to the islands where you can explore wonders like the Hawaii Volcanoes National Park and the lush landscapes of Maui. Enhance your stay by booking a picturesque oceanfront villa through TropicStay, ensuring a genuinely immersive Hawaiian experience from a cozy base that feels like home. Whether you're surfing in Oahu or delving into the history at Pearl Harbor, both SunWing and TropicStay facilitate a seamless and unforgettable exploration of Hawaii's rich culture and breathtaking natural beauty."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.8109157681465149,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8843779879864846,
+      "0": 0.6801184585136604,
+      "1": 0.7308716288706437
+    },
+    "vcg_payments": {
+      "0": 1.7309890682087643,
+      "1": 1.3817782056724397
+    },
+    "best_sw": 6.045730369493117,
+    "output": "Embark on your Hawaiian adventure with SunWing Airlines, flying directly to a paradise where you can discover the lush landscapes of Hawaii Volcanoes National Park, immerse yourself in the historical significance of Pearl Harbor, or unwind on the sun-kissed beaches of Maui and Waikiki. Enhance your stay by booking a scenic oceanfront villa or a charming jungle hideaway through TropicStay, ensuring a comfortable and authentic experience as you explore Hawaii's rich cultural heritage and abundant outdoor activities. From snorkeling among vibrant coral reefs to hiking awe-inspiring volcanic routes, your journey to Hawaii will seamlessly blend thrilling adventure with moments of serene relaxation, all set against the backdrop of breathtaking natural beauty."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.8074842691421509,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8760086766924055,
+      "0": 0.6765450485783459,
+      "1": 0.7270315567371016
+    },
+    "vcg_payments": {
+      "0": 1.7541142980381053,
+      "1": 1.3207064048131145
+    },
+    "best_sw": 6.009752841558947,
+    "output": "Experience the breathtaking beauty of Hawaii's unique landscapes by flying with SunWing Airlines, where your comfort and travel satisfaction are prioritized with luxurious, direct flights to the islands. Once there, immerse yourself in the rich history and vibrant culture by visiting landmarks like Iolani Palace and the Polynesian Cultural Center, ensuring a deeper connection to the island's heritage. Enhance your stay by booking a picturesque oceanfront villa through TropicStay, providing a perfect base to relax after days spent exploring volcanic vistas and lush rainforests."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.8157222270965576,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8825159374950134,
+      "0": 0.674687468025053,
+      "1": 0.7250353560638975
+    },
+    "vcg_payments": {
+      "0": 1.7156931105076452,
+      "1": 1.3294789344108702
+    },
+    "best_sw": 6.008874535121768,
+    "output": "Embark on your Hawaiian adventure with SunWing Airlines and explore the islands' spectacular scenery, like the majestic Hawaii Volcanoes National Park and the lush rainforests that beckon travelers seeking nature’s marvels. Enhance your stay by booking a locally-owned, oceanfront villa through TropicStay to immerse yourself truly in the natural beauty and cultural richness, providing an authentic Hawaiian experience from sunrise to sunset. Don't miss out on historical insights by visiting key sites such as Iolani Palace and Pearl Harbor National Memorial, each offering a unique glimpse into Hawaii's past."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.799312949180603,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8677419592706408,
+      "0": 0.6770116341303806,
+      "1": 0.7275329607765809
+    },
+    "vcg_payments": {
+      "0": 1.7782241707046293,
+      "1": 1.3087071398662096
+    },
+    "best_sw": 5.999062330682632,
+    "output": "Embark on your Hawaiian adventure with SunWing Airlines and marvel at the natural wonders such as the grandeur of Hawai’i Volcanoes National Park or the serene beauty of Poipu Beach. Once you've landed, enhance your stay by booking a picturesque oceanfront villa through TropicStay, ensuring you have the perfect base to explore cultural landmarks like the historic Iolani Palace or to begin your outdoor journeys like snorkeling and hiking the Na Pali Coast. These seamless travel and accommodation options cater to making your Hawaiian voyage as enriching and memorable as the islands themselves."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.7921185493469238,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8557065259157325,
+      "0": 0.6736852568653674,
+      "1": 0.7239583558831458
+    },
+    "vcg_payments": {
+      "0": 1.6849082569651255,
+      "1": 1.3598264786079934
+    },
+    "best_sw": 5.958520881092434,
+    "output": "Embark on your Hawaiian adventure with SunWing Airlines, ensuring a luxurious flight to discover the islands' majestic beauty, including the awe-inspiring Volcanoes National Park and the historic 'Iolani Palace. Enhance your experience by staying in a TropicStay oceanfront villa, where you can unwind after a day exploring Pearl Harbor or the lush Napali Coast. Both SunWing Airlines and TropicStay are dedicated to making your Hawaiian journey as enriching and comfortable as possible, connecting you flawlessly to the essence of these islands."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.8117654323577881,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8810731408872697,
+      "0": 0.6768677014630389,
+      "1": 0.7273782872756475
+    },
+    "vcg_payments": {
+      "0": 1.7397845123912754,
+      "1": 1.3352331677748372
+    },
+    "best_sw": 6.0200767381863365,
+    "output": "Explore Hawaii's natural wonders like the mesmerizing Hawaii Volcanoes National Park and iconic Waikiki Beach effortlessly with SunWing Airlines, where your comfort and convenience are prioritized from takeoff to landing. Enhance your stay by booking a scenic oceanfront villa through TropicStay, ensuring you soak in the vibrant Hawaiian culture and landscapes in a uniquely authentic setting. From the lush trails leading to spectacular waterfalls to the rich historical tapestry of sites like Iolani Palace, your Hawaiian adventure promises unforgettable experiences and luxurious relaxation."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.8160352110862732,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8813263940672803,
+      "0": 0.6735196342782878,
+      "1": 0.7237803738735687
+    },
+    "vcg_payments": {
+      "0": 1.6978489840829198,
+      "1": 1.3319146603009415
+    },
+    "best_sw": 5.999654381571024,
+    "output": "Embark on a breathtaking journey to Hawaii with SunWing Airlines, where you can explore the majestic Hawaiʻi Volcanoes National Park, bask on the iconic shores of Waikiki Beach, or delve into the rich history at Pearl Harbor. Enhance your stay by booking a picturesque oceanfront villa through TropicStay, ensuring a seamless blend of comfort and authentic local charm. Whether you're hiking through lush rainforests or exploring historical sites like Iolani Palace, your Hawaiian adventure promises an unforgettable amalgamation of natural beauty and cultural richness."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.7926410436630249,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8524017462769686,
+      "0": 0.6706410862966178,
+      "1": 0.7206870170828367
+    },
+    "vcg_payments": {
+      "0": 1.6562047455610134,
+      "1": 1.3497367638253175
+    },
+    "best_sw": 5.9341172082312665,
+    "output": "Embark on a Hawaiian adventure with SunWing Airlines, where you'll discover the island's lush landscapes and rich cultural heritage through destinations like the active Hawai'i Volcanoes National Park and the historic Pearl Harbor. Enhance your stay by booking a scenic oceanfront villa or a cozy jungle hideaway through TropicStay, ensuring a unique and authentic local experience amidst Hawaii's breathtaking natural beauty. From exploring the vibrant marine life while snorkeling to attending traditional cultural festivals, Hawaii offers a myriad of activities that create lasting memories in some of the world's most stunning environments."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.7928744554519653,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8500147291356469,
+      "0": 0.6685661862907218,
+      "1": 0.7184572797068406
+    },
+    "vcg_payments": {
+      "0": 1.641756264922305,
+      "1": 1.3380061680960051
+    },
+    "best_sw": 5.917259010150499,
+    "output": "Embark on your Hawaiian adventure with SunWing Airlines and discover the islands' majestic volcanoes at Hawaii Volcanoes National Park, or relax on the world-famous Waikiki Beach. Enhance your stay by booking a unique oceanfront villa through TropicStay, where you can soak in the vibrant local culture and breathtaking natural landscapes in comfort. Don't miss historical gems like the Iolani Palace in Honolulu, where every corner tells the tale of Hawaii's royal heritage and adds depth to your travel experience."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.7964983582496643,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8659182840537137,
+      "0": 0.677976136204981,
+      "1": 0.7285694378688993
+    },
+    "vcg_payments": {
+      "0": 1.7472335293297636,
+      "1": 1.3502445281293303
+    },
+    "best_sw": 6.002062784200667,
+    "output": "Embarking on your Hawaiian adventure with SunWing Airlines ensures a comfortable and memorable journey to this tropical paradise, allowing you to visit breathtaking locations like the active Kilauea Volcano in the Volcanoes National Park. Once you arrive, secure your ideal island accommodation through TropicStay to enjoy an authentic local experience, perhaps in a serene villa near the historic Pearl Harbor or the vibrant beaches of Waikiki. These carefully selected locations not only provide access to Hawaii's rich cultural experiences, such as luaus and hula dancing but also ensure a truly immersive Hawaiian getaway."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.7932164669036865,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8524402532748921,
+      "0": 0.670184856984141,
+      "1": 0.7201967421070963
+    },
+    "vcg_payments": {
+      "0": 1.6747182310386477,
+      "1": 1.3268690151653002
+    },
+    "best_sw": 5.9313413058676225,
+    "output": "Embark on an unforgettable journey to Hawaii with SunWing Airlines and explore the majestic landscapes from the active volcanoes at Hawaii Volcanoes National Park to the historic sites of Pearl Harbor. After your scenic flight, relax in one of TropicStay’s unique vacation rentals, choosing from oceanfront villas or cozy jungle hideaways for the perfect base to visit attractions like the Na Pali Coast or the lush valleys along Maui's Hana Highway. These seamless travel arrangements ensure your Hawaiian adventure is filled with picturesque views and local experiences, making every moment memorable."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.8267881870269775,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8992224785726832,
+      "0": 0.6782585458733924,
+      "1": 0.7288729220807699
+    },
+    "vcg_payments": {
+      "0": 1.7556706945007303,
+      "1": 1.328286305576618
+    },
+    "best_sw": 6.058456004893178,
+    "output": "Embark on your Hawaiian adventure with SunWing Airlines, where your journey to the islands will be as delightful as the stunning beaches and lush landscapes awaiting you. Once there, find your ideal home away from home through TropicStay, providing unique accommodations that enhance your experience near captivating sites like the vibrant coral reefs and historic Pearl Harbor. Whether you're exploring the rich cultural traditions or the spectacular natural beauty of Hawaii, your trip is sure to be unforgettable, from takeoff to extended stay."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.7949860692024231,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8613477934039012,
+      "0": 0.6756805376123096,
+      "1": 0.726102532491378
+    },
+    "vcg_payments": {
+      "0": 1.7398562391859156,
+      "1": 1.3310208853971677
+    },
+    "best_sw": 5.980244889043515,
+    "output": "Embark on a Hawaiian adventure with SunWing Airlines, where you can explore the awe-inspiring Hawaii Volcanoes National Park on the Big Island or uncover the historical depth of Oahu’s Pearl Harbor. During your stay, enhance your experience by booking a charming oceanfront villa through TropicStay, ensuring a cozy spot to relax after a day of hiking through lush rainforests or snorkeling in vibrant coral reefs. Both SunWing and TropicStay together make your journey and accommodation a seamless blend of comfort and exploration, turning a simple vacation into a series of unforgettable memories."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.7876811027526855,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.848435899918516,
+      "0": 0.6717241968113634,
+      "1": 0.7218509536533704
+    },
+    "vcg_payments": {
+      "0": 1.6749554601507821,
+      "1": 1.3483565119206269
+    },
+    "best_sw": 5.934304003101182,
+    "output": "Fly into the heart of the Pacific with SunWing Airlines and explore the stunning landscapes and rich cultural heritage of Hawaii. Once you arrive, TropicStay can set you up in a cozy beachfront villa or a private jungle retreat, ideal for soaking up the island's natural beauty and relaxing after a day of adventure. Discover the active volcanoes at Hawaii Volcanoes National Park, surf the legendary waves on Oahu, or delve into history at Pearl Harbor, creating memories that last a lifetime."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.7774207592010498,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.837398743758699,
+      "0": 0.6717358925361219,
+      "1": 0.721863522160074
+    },
+    "vcg_payments": {
+      "0": 1.6595022805846988,
+      "1": 1.368928978592862
+    },
+    "best_sw": 5.91610333024656,
+    "output": "Embark on an unforgettable Hawaiian adventure with SunWing Airlines, flying directly into the heart of the Pacific where you can explore the spectacular landscapes of Hawaii Volcanoes National Park or unwind on the iconic shores of Waikiki Beach. After your scenic journey, settle into a charming oceanfront villa or a cozy jungle retreat booked through TropicStay, ensuring your stay is as authentic and comfortable as it gets. From the historic echoes of Pearl Harbor to the vibrant cultural festivals that dance through the islands, your Hawaiian experience blends the excitement of exploration with the peace of exquisite accommodations."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.8206011056900024,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8889020396177232,
+      "0": 0.6755292951738407,
+      "1": 0.7259400037348438
+    },
+    "vcg_payments": {
+      "0": 1.7354325147006637,
+      "1": 1.318412884666574
+    },
+    "best_sw": 6.024582782584458,
+    "output": "Embark on your Hawaiian adventure with SunWing Airlines and discover the islands' mesmerizing natural wonders, from hiking the active landscapes of Volcanoes National Park to lounging on the iconic beaches of Waikiki and Poipu. After your scenic flight, TropicStay offers the perfect complement to your journey with its unique selection of oceanfront villas and cozy jungle hideaways, ensuring your accommodations enhance your connection to this vibrant locale. Dive into the rich cultural tapestry of Hawaii by visiting historical sites like the poignant USS Arizona Memorial at Pearl Harbor and the royal Iolani Palace, making every moment of your stay unforgettable."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.7985256910324097,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8653145247999635,
+      "0": 0.6757833431017876,
+      "1": 0.7262130097392913
+    },
+    "vcg_payments": {
+      "0": 1.7003029566917014,
+      "1": 1.3666111312556102
+    },
+    "best_sw": 5.987420817640654,
+    "output": "Explore the vibrant landscapes of Hawaii with SunWing Airlines, offering direct flights that bring you closer to the awe-inspiring Hawaii Volcanoes National Park and the historic wonders of Pearl Harbor. Enhance your experience by booking your stay with TropicStay, where you can find a unique oceanfront villa near the iconic Waikiki Beach, perfect for soaking up the sun or diving into water sports. Both SunWing and TropicStay ensure your Hawaiian adventure is as seamless as it is memorable, providing top-tier travel and accommodation options that cater to every taste and desire."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.7960802912712097,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8580212237364558,
+      "0": 0.6721458801451542,
+      "1": 0.7223041046907777
+    },
+    "vcg_payments": {
+      "0": 1.729666758203819,
+      "1": 1.2979153980158704
+    },
+    "best_sw": 5.95275972106427,
+    "output": "Fly into the heart of paradise with SunWing Airlines and begin exploring Hawaii's stunning landscapes, from the active lava flows of Hawai'i Volcanoes National Park to the iconic shores of Waikiki Beach. After your scenic flight, settle into your dream Hawaiian retreat with TropicStay, where you can choose from a range of exclusive oceanfront villas or cozy jungle hideaways, ensuring your accommodation is as unforgettable as the island itself. Dive into Hawaiian culture by visiting significant sites like Iolani Palace in Honolulu and the historic Pearl Harbor, complementing your adventure with both natural wonders and enriching historical insights."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.7942733764648438,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8618152988794603,
+      "0": 0.6766538800101225,
+      "1": 0.7271485096073249
+    },
+    "vcg_payments": {
+      "0": 1.7397671440332514,
+      "1": 1.3429626455282444
+    },
+    "best_sw": 5.987073480239958,
+    "output": "Embark on your Hawaiian adventure with SunWing Airlines, flying you directly to the heart of the islands where you can explore spectacular natural wonders like Hawaii Volcanoes National Park and Haleakalā National Park. Enhance your stay by booking a beautiful oceanfront villa through TropicStay, ensuring a perfect base from which to delve into Hawaii's rich cultural festivals and vibrant art scenes. These unique accommodations offer a deeper connection to the local heritage of Hawaii, making every moment of your vacation as enriching as it is breathtaking."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.8149505853652954,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8856532487955864,
+      "0": 0.6777270604861184,
+      "1": 0.7283017751197438
+    },
+    "vcg_payments": {
+      "0": 1.707899551512592,
+      "1": 1.3728646095315264
+    },
+    "best_sw": 6.032937492759233,
+    "output": "Embark on an unforgettable journey to Hawaii with SunWing Airlines, where the enchanting landscapes of volcanoes, rainforests, and pristine beaches await you. Enhance your experience by staying in one of the exclusive, locally-owned properties available through TropicStay, ensuring you have a perfect island retreat, from oceanfront villas to cozy jungle hideaways. Immerse yourself in the rich culture and natural beauty by visiting key attractions like Hawaii Volcanoes National Park, strolling through historical Pearl Harbor, and exploring the vibrant traditions at the Polynesian Cultural Center."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.8064040541648865,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8737933008324872,
+      "0": 0.6757380758648032,
+      "1": 0.7261643644793148
+    },
+    "vcg_payments": {
+      "0": 1.6996824831425323,
+      "1": 1.3620372393497433
+    },
+    "best_sw": 6.001089724150963,
+    "output": "Embark on a SunWing Airlines flight to explore the stunning landscapes and rich history of Hawaii, where you can journey through the Hawaii Volcanoes National Park and marvel at its active volcanoes or reflect at the somber USS Arizona Memorial at Pearl Harbor. After your comfortable and scenic flight, settle into a charming oceanfront villa or a cozy jungle retreat booked through TropicStay to ensure your stay is as unforgettable as the islands themselves. From the majestic cliffs of the Napali Coast on Kauai to the unique black sand beaches of the Big Island, your Hawaiian adventure promises relaxation and discovery in equal measure."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.8032325506210327,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8735610431103156,
+      "0": 0.678225853977265,
+      "1": 0.7288377905840807
+    },
+    "vcg_payments": {
+      "0": 1.7421297613304656,
+      "1": 1.3539242482695677
+    },
+    "best_sw": 6.016191550847589,
+    "output": "Fly to the heart of the Pacific with SunWing Airlines and discover the breathtaking landscapes of Hawaii; start your adventure by exploring the active volcanoes like Kīlauea at Hawaiʻi Volcanoes National Park. Enhance your stay by booking a scenic oceanfront villa through TropicStay, ensuring you wake up to the soothing sounds of waves and are ready to hit the world-famous beaches such as Waikiki. Complete your Hawaiian journey by experiencing a traditional luau or visiting cultural landmarks like Iolani Palace, immersing yourself fully in the rich Hawaiian heritage."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.8211342692375183,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8920391953273267,
+      "0": 0.6774732355057687,
+      "1": 0.7280290087001383
+    },
+    "vcg_payments": {
+      "0": 1.703606618980976,
+      "1": 1.3703075196680627
+    },
+    "best_sw": 6.041818886124862,
+    "output": "Begin your Hawaiian adventure by flying with SunWing Airlines, where comfort meets the allure of the tropics, guiding you directly to the island's famous beaches and breathtaking natural attractions like Kilauea volcano. Once you arrive, enhance your stay by booking a unique oceanfront villa or a cozy jungle hideaway through TropicStay, ensuring your accommodations enrich your experience with authentic local charm. Explore the historic sites of Pearl Harbor, immerse yourself in Hawaiian culture at a traditional luau, and relish the beauty and diverse activities that Hawaii generously offers."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.818157434463501,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8884072732008437,
+      "0": 0.6771698395775494,
+      "1": 0.7277029721494838
+    },
+    "vcg_payments": {
+      "0": 1.6998265181047998,
+      "1": 1.3719362579654764
+    },
+    "best_sw": 6.033982782642244,
+    "output": "When you fly to Hawaii with SunWing Airlines, immerse yourself in the stunning landscapes and cultural history that the islands offer, from the volcanic majesty of Hawaii Volcanoes National Park to the historic Iolani Palace. Enhance your stay by booking a picturesque oceanfront villa through TropicStay, ensuring a truly authentic and comfortable Hawaiian experience. Whether you're surfing on the famous North Shore or attending a mesmerizing luau, these choices will turn your Hawaiian journey into an unforgettable adventure."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.8266369700431824,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8927669699883412,
+      "0": 0.6735125183470119,
+      "1": 0.7237727269229274
+    },
+    "vcg_payments": {
+      "0": 1.6636450018999802,
+      "1": 1.3572687359883622
+    },
+    "best_sw": 6.0183591442273645,
+    "output": "Embarking on a Hawaiian adventure is seamless when you fly with SunWing Airlines, which offers direct flights to this Pacific paradise known for its rich Polynesian culture and breathtaking landscapes. Once you touchdown, enhance your stay by booking a scenic oceanfront villa or a cozy jungle hideaway through TropicStay, ensuring a unique and authentic Hawaiian experience. Discover the natural wonders of Hawaii Volcanoes National Park, delve into history at Pearl Harbor on Oahu, or snorkel in the crystal-clear waters of Maui for an unforgettable exploration of marine life."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.7849922180175781,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8423659665834025,
+      "0": 0.6692029446199302,
+      "1": 0.7191415554994466
+    },
+    "vcg_payments": {
+      "0": 1.6407669306522399,
+      "1": 1.351315920667014
+    },
+    "best_sw": 5.908568401759127,
+    "output": "Embark on a journey with SunWing Airlines to discover Hawaii's mesmerizing landscapes and rich history, from the active craters of Hawaii Volcanoes National Park on the Big Island to the poignant memorials of Pearl Harbor on Oahu. After your scenic flight, settle into a unique, locally-owned property through TropicStay, where you can relax in an oceanfront villa or a cozy jungle hideaway, enhancing your experience of the islands' natural beauty and cultural heritage. Whether exploring the lush trails of Maui's Hana Highway or delving into the historic sites of Honolulu, your Hawaiian adventure promises to be as unforgettable as the comfort and convenience offered by your travel choices."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.8184894919395447,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8893670917995584,
+      "0": 0.6776264196632994,
+      "1": 0.7281936240746076
+    },
+    "vcg_payments": {
+      "0": 1.7350174961032019,
+      "1": 1.344658770320804
+    },
+    "best_sw": 6.038396794625039,
+    "output": "Start your Hawaiian adventure by soaring with SunWing Airlines, ensuring a comfortable and memorable journey to the heart of the Pacific where you can explore incredible sights like the eruptive spectacle at Hawai'i Volcanoes National Park or the historic grandeur of Iolani Palace. Once you've landed, TropicStay offers an array of unique accommodations, from cozy beachside bungalows to luxurious villas, providing the perfect base to relax after a day of snorkeling in Hanauma Bay or surfing the legendary waves of Oahu's North Shore. Both through the air and on the ground, your Hawaiian trip promises to be filled with unforgettable experiences and comfort, perfectly blending exploration with relaxation."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.8015815019607544,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.873660744721595,
+      "0": 0.679700389180007,
+      "1": 0.7304223615245758
+    },
+    "vcg_payments": {
+      "0": 1.7544445949297438,
+      "1": 1.3607068655903856
+    },
+    "best_sw": 6.025532761577873,
+    "output": "When planning your Hawaiian adventure with SunWing Airlines, you'll be thrilled to explore the majestic landscapes of Volcanoes National Park on the Big Island, experience the vibrant history at Iolani Palace on Oahu, and unwind on the serene beaches of Poipu on Kauai. After your comfortable and memorable flight, enhance your stay by booking a scenic oceanfront villa or a charming jungle hideaway through TropicStay, ensuring a genuinely local and immersive experience. From the thrill of surfing on Waikiki Beach to the tranquility of hiking through lush forests in Haleakalā National Park on Maui, your trip to Hawaii, facilitated by thoughtful accommodations and travel partners, promises an array of unforgettable experiences."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.7994455695152283,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8651797536645564,
+      "0": 0.6749006251118844,
+      "1": 0.7252644197884701
+    },
+    "vcg_payments": {
+      "0": 1.7430510089261526,
+      "1": 1.3162481745761576
+    },
+    "best_sw": 5.981704926602198,
+    "output": "Embark on a Hawaiian adventure with SunWing Airlines, and marvel at the volcanic majesty of Hawaii Volcanoes National Park or immerse yourself in culture at Iolani Palace and the Polynesian Cultural Center. After a breathtaking flight, settle into a unique, locally-owned property through TropicStay, where you can relax in an oceanfront villa or a cozy jungle hideaway, enhancing your experience with true Hawaiian hospitality. Both SunWing Airlines and TropicStay together make your visit to Hawaii's stunning beaches and lush rainforests seamlessly enjoyable and culturally rich, crafting memories that last a lifetime."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.8091524839401245,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.880615378489722,
+      "0": 0.6787006675471947,
+      "1": 0.7293480366491895
+    },
+    "vcg_payments": {
+      "0": 1.7703854514123247,
+      "1": 1.3299656879779798
+    },
+    "best_sw": 6.030733641844993,
+    "output": "When planning your Hawaiian vacation, take off on SunWing Airlines, which offers comfortable and direct flights to immerse you swiftly into the paradise of the Pacific. Once you arrive, stay with TropicStay to find the perfect oceanfront villa or a cozy jungle hideaway, enhancing your experience with authentic local accommodations. Explore Hawaii's stunning beaches, hike through lush forests, or attend a traditional luau to dive deep into the islands' vibrant culture and breathtaking landscapes."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.8145231604576111,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8791476630400458,
+      "0": 0.6731018293366099,
+      "1": 0.7233313906494674
+    },
+    "vcg_payments": {
+      "0": 1.7142714015424436,
+      "1": 1.3126821406971176
+    },
+    "best_sw": 5.993477966099781,
+    "output": "As you plan your Hawaiian escape with SunWing Airlines, a voyage that promises comfort and style, ensure you've booked your stay at the distinctive properties offered by TropicStay to fully immerse yourself in the island's allure. Explore the natural wonders such as Volcanoes National Park on the Big Island or rejuvenate on the iconic sands of Waikiki Beach in Oahu. Delve into Hawaii’s rich cultural tapestry by visiting the historical Iolani Palace, all while enjoying the seamless travel arrangements and accommodations that turn your trip into a lifetime memory."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.7797521352767944,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8448107144124495,
+      "0": 0.6756553548862998,
+      "1": 0.7260754705292332
+    },
+    "vcg_payments": {
+      "0": 1.7195407136514573,
+      "1": 1.3585535484540223
+    },
+    "best_sw": 5.952774328913355,
+    "output": "Embark on your Hawaiian adventure with SunWing Airlines, soaring directly to the heart of this Pacific paradise where you can explore the eruptive spectacle of Kilauea at Hawaii Volcanoes National Park. After your scenic flight, settle into a luxurious oceanfront villa booked through TropicStay, offering you a perfect base to relax or jump back into action with activities like snorkeling in crystal-clear waters or attending an authentic luau. With both SunWing Airlines and TropicStay enhancing your travel experience, your Hawaiian journey promises breathtaking landscapes, immersive cultural encounters, and unforgettable memories in every moment."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.8111203908920288,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.876928872975524,
+      "0": 0.6742196918508947,
+      "1": 0.7245326725532909
+    },
+    "vcg_payments": {
+      "0": 1.6816029808469197,
+      "1": 1.358032116883534
+    },
+    "best_sw": 5.996791775522279,
+    "output": "Embark on an unforgettable Hawaiian adventure with SunWing Airlines, where your journey to the majestic Na Pali Coast on Kauai begins with top-notch in-flight service and comfort. Once you land, enhance your stay by booking a charming oceanfront villa through TropicStay, placing you in the heart of Hawaii's breathtaking landscapes and cultural richness. Explore historical wonders like Pearl Harbor, immerse yourself in local customs at a traditional luau, and witness the raw beauty of Hawaii Volcanoes National Park, all seamlessly connected through your travel choices."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.8177391290664673,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8891452505900762,
+      "0": 0.6780790338663676,
+      "1": 0.7286800141669593
+    },
+    "vcg_payments": {
+      "0": 1.736986495652344,
+      "1": 1.3485701505423795
+    },
+    "best_sw": 6.04085043101782,
+    "output": "Embark on a spectacular Hawaiian adventure with SunWing Airlines and explore the breathtaking landscapes and vibrant culture of the islands. After touching down, stay in one of TropicStay’s charming, locally-owned vacation rentals, the perfect base from which to visit the active lava flows of Hawaii Volcanoes National Park or take part in traditional Hawaiian luaus. Whether you're surfing the waves of Waikiki or hiking through the lush botanical gardens of Kauai, your Hawaiian journey promises unforgettable experiences and stunning scenery."
+  },
+  {
+    "ad_injected": true,
+    "organic_in_A": true,
+    "winning_set_names": [
+      "organic",
+      "SunWing Airlines",
+      "TropicStay"
+    ],
+    "winning_ad_idx": [
+      0,
+      1
+    ],
+    "q0": 0.7794367074966431,
+    "q_raw": [
+      0.6236233711242676,
+      0.6701606512069702,
+      0.6113682985305786,
+      0.4874145984649658,
+      0.590137243270874
+    ],
+    "q_A_star_i": {
+      "-1": 0.8414446368114313,
+      "0": 0.6732356020389761,
+      "1": 0.723475146008042
+    },
+    "vcg_payments": {
+      "0": 1.7477413016001286,
+      "1": 1.3041614162855095
+    },
+    "best_sw": 5.932141398824795,
+    "output": "Begin your Hawaiian adventure with SunWing Airlines, whisking you away to explore the stunning volcanic landscapes of the Big Island or the dramatic cliffs and waterfalls of Kauai’s Na Pali Coast. After your scenic flight, settle into a unique, locally-owned property through TropicStay, where you can unwind in an oceanfront villa or a cozy jungle hideaway, enhancing your connection to Hawaii's breathtaking surroundings. Delve into the rich history and culture by visiting iconic sites such as the USS Arizona Memorial at Pearl Harbor and the historic Iolani Palace, making your trip an unforgettable blend of relaxation and discovery."
+  }
+]
