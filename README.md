@@ -13,5 +13,5 @@ Each folder contains an `openai_key.txt` file. Before running any code, replace 
 
 ## Notebooks
 
-- **`Metrics Comparison.ipynb`** — Compares all metrics across all mechanisms. Its output reproduces every results table in the paper, except for the initial relevance of the ads, which is computed in `QP_single.ipynb` under the **`QP single/`** folder.
+- **`Metrics Comparison.ipynb`** — Compares all metrics across all mechanisms. Its output reproduces every results table in the paper, except for the initial relevance of the ads, which is computed in `QP_single.ipynb` under the **`QP single`** folder.
 - **`Quality Comparison.ipynb`** — Compares the output quality across all mechanisms, producing Figures 1, 3, 5, and 7 in the paper.
