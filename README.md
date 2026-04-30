@@ -2,6 +2,10 @@
 
 This repository provides Python implementations of the auction mechanisms evaluated in the paper, with results presented in Jupyter notebooks.
 
+## Setup
+
+Each folder contains an `openai_key.txt` file. Before running any code, replace its contents with your OpenAI API key (you can obtain one at https://platform.openai.com/api-keys).
+
 ## Repository Structure
 
 - **`QP single`** — Code for the QP single-allocation mechanisms (**QP w/ repl.** and **QP w/o repl.**) across all 4 scenarios, along with output logs over 100 trials.
