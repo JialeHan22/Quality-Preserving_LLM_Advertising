@@ -1,6 +1,6 @@
 # Mechanism Design for Quality-Preserving LLM Advertising
 
-This repository provides Python implementations of the auction mechanisms evaluated in the paper, with results presented in Jupyter notebooks.
+This repository provides Python implementations of the auction mechanisms evaluated in the paper (https://arxiv.org/abs/2605.10964), with results presented in Jupyter notebooks.
 
 ## Repository Structure
 
